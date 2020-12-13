@@ -1,302 +1,268 @@
 #EXTM3U
-#EXTINF:0 tvg-id="FiveUSA.uk" group-title="Channels",UK: 5 USA
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27272
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Al Jazeera English FHD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27290
-#EXTINF:0 tvg-id="Alibi.uk" group-title="Channels",UK: Alibi
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27264
-#EXTINF:0 tvg-id="BabyTV.uk" group-title="Channels",UK: Baby TV
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27291
-#EXTINF:0 tvg-id="BBC4.uk" group-title="Channels",UK: BBC 4 HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27258
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC alba HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27231
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC CBeebies HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27320
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC entertainment HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27261
-#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",UK: BBC one FHD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27279
-#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",UK: BBC two HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27280
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC World News HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27281
-#EXTINF:0 tvg-id="BLAZE.uk" group-title="Channels",UK: Blaze
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27313
-#EXTINF:0 tvg-id="Boomerang.uk" group-title="Channels",UK: BoomeRang
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27232
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Box Hits HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27314
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",UK: BT Sport 1 HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27333
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",UK: BT Sport 2 HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27334
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",UK: BT Sport 3 HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27335
-#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",UK: BT Sport ESPN HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27323
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 1
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27326
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 2
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27327
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 3
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27328
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 4
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27329
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 5
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27330
-#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",UK: Cartoonito
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27319
-#EXTINF:0 tvg-id="CBSAction.uk" group-title="Channels",UK: CBS Action
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27251
-#EXTINF:0 tvg-id="CBSDrama.uk" group-title="Channels",UK: CBS Drama
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27250
-#EXTINF:0 tvg-id="CBSReality.uk" group-title="Channels",UK: CBS Reality
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27249
-#EXTINF:0 tvg-id="Channel4.uk" group-title="Channels",UK: Channel 4
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27271
-#EXTINF:0 tvg-id="Channel5.uk" group-title="Channels",UK: CHANNEL 5
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27257
-#EXTINF:0 tvg-id="ChelseaTV.uk" group-title="Channels",UK: Chelsea TV
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27278
-#EXTINF:0 tvg-id="Dave.uk" group-title="Channels",UK: Dave
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27262
-#EXTINF:0 tvg-id="Discovery.uk" group-title="Channels",UK: Discovery
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27270
-#EXTINF:0 tvg-id="Discovery.uk" group-title="Channels",UK: Discovery Channel
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27254
-#EXTINF:0 tvg-id="DiscoveryHistory.uk" group-title="Channels",UK: Discovery History
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27248
-#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Channels",UK: Discovery Science
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27269
-#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",UK: Discovery Turbo
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27268
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",UK: Disney Junior
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27247
-#EXTINF:0 tvg-id="DisneyXD.uk" group-title="Channels",UK: Disney XD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27276
-#EXTINF:0 tvg-id="Drama.uk" group-title="Channels",UK: DRAMA
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27312
-#EXTINF:0 tvg-id="E.uk" group-title="Channels",UK: E!
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27308
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: EDGE SPORT HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27347
-#EXTINF:0 tvg-id="eirSport1.ie" group-title="Channels",UK: Eir Sport 1
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27331
-#EXTINF:0 tvg-id="eirSport2.ie" group-title="Channels",UK: Eir Sport 2
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27346
-#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Channels",UK: EUROSPORT 1
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27348
-#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Channels",UK: EuroSport 2
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27322
-#EXTINF:0 tvg-id="Film4.uk" group-title="Channels",UK: Film 4 HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27289
-#EXTINF:0 tvg-id="FX.uk" group-title="Channels",UK: FOX FHD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27306
-#EXTINF:0 tvg-id="FreeSports.uk" group-title="Channels",UK: Free Sports
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27345
-#EXTINF:0 tvg-id="GOLD.uk" group-title="Channels",UK: Gold TV
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27305
-#EXTINF:0 tvg-id="GoodFood.uk" group-title="Channels",UK: Good Food
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27263
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: HBO
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27300
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: HBO Comedy HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27301
-#EXTINF:0 tvg-id="History.uk" group-title="Channels",UK: History Channel
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27246
-#EXTINF:0 tvg-id="Investigation.uk" group-title="Channels",UK: INVESTIGATION DISCOVERY
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27310
-#EXTINF:0 tvg-id="ITV1London.uk" group-title="Channels",UK: ITV 1
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27245
-#EXTINF:0 tvg-id="ITV2.uk" group-title="Channels",UK: ITV 2 HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27244
-#EXTINF:0 tvg-id="ITV3.uk" group-title="Channels",UK: ITV 3
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27243
-#EXTINF:0 tvg-id="ITV4.uk" group-title="Channels",UK: ITV 4
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27242
-#EXTINF:0 tvg-id="ITVBe.uk" group-title="Channels",UK: ITVBE
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27283
-#EXTINF:0 tvg-id="Kerrang.uk" group-title="Channels",UK: Kerrang!
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27316
-#EXTINF:0 tvg-id="Lifetime.uk" group-title="Channels",UK: LifeTime
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27275
-#EXTINF:0 tvg-id="LiverpoolFCTV.uk" group-title="Channels",UK: Liverpool FC
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27285
-#EXTINF:0 tvg-id="More4.uk" group-title="Channels",UK: More4
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27307
-#EXTINF:0 tvg-id="MTV.uk" group-title="Channels",UK: MTV
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27309
-#EXTINF:0 tvg-id="MTVBase.uk" group-title="Channels",UK: MTV Base
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27293
-#EXTINF:0 tvg-id="MTVHits.uk" group-title="Channels",UK: MTV Hits
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27294
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: MTV OMG
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27311
-#EXTINF:0 tvg-id="MUTV.uk" group-title="Channels",UK: Mu TV
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27274
-#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Channels",UK: Nat Geo Wild HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27241
-#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Channels",UK: National Geographic Channel
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27252
-#EXTINF:0 tvg-id="NickJunior.uk" group-title="Channels",UK: Nick Jr
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27253
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Channels",UK: Nickelodeon
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27240
-#EXTINF:0 tvg-id="Nicktoons.uk" group-title="Channels",UK: Nicktoons
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27292
-#EXTINF:0 tvg-id="PickTV.uk" group-title="Channels",UK: PICK
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27267
-#EXTINF:0 tvg-id="PremierSports.uk" group-title="Channels",UK: Premier Sports
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27332
-#EXTINF:0 tvg-id="Really.uk" group-title="Channels",UK: REALLY
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27282
-#EXTINF:0 tvg-id="RTE1.ie" group-title="Channels",UK: RTE One
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27297
-#EXTINF:0 tvg-id="RTE2.ie" group-title="Channels",UK: RTE Two
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27298
-#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="Channels",UK: SKY Atlantic HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27238
-#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="Channels",UK: Sky Cinema Action FHD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27260
-#EXTINF:0 tvg-id="SkyCinemaThriller.uk" group-title="Channels",UK: Sky Cinema Crime & Thriller HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27234
-#EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="Channels",UK: Sky Cinema Disney FHD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27237
-#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="Channels",UK: Sky Cinema Drama FHD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27255
-#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="Channels",UK: Sky Cinema Family HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27286
+#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="Channels",UK: Sky Cinema Comedy HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88047
 #EXTINF:0 tvg-id="SkyBrits.uk" group-title="Channels",UK: Sky Cinema Greats HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27233
-#EXTINF:0 tvg-id="SkyCinemaHits.uk" group-title="Channels",UK: Sky Cinema Hits HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27265
-#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="Channels",UK: Sky Cinema Premier HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27236
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88048
+#EXTINF:0 tvg-id="SkyCinemaThriller.uk" group-title="Channels",UK: Sky Cinema Crime & Thriller HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88049
 #EXTINF:0 tvg-id="SkySciFiHorror.uk" group-title="Channels",UK: Sky Cinema Sci-fi & Horror HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27235
-#EXTINF:0 tvg-id="SkyMoviesIndie.uk" group-title="Channels",UK: Sky Cinema Select HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27288
-#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels",UK: Sky News HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27273
-#EXTINF:0 tvg-id="Sky1.uk" group-title="Channels",UK: Sky One HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27277
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Channels",UK: SKY SPORTS ACTION FHD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27339
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",UK: SKY SPORTS ARENA
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27342
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",UK: SKY SPORTS CRICKET FHD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27338
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",UK: SKY SPORTS F1 HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27343
-#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Channels",UK: SKY SPORTS FOOTBALL FHD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27341
-#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Channels",UK: SKY SPORTS GOLF FHD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27340
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",UK: SKY SPORTS MAIN EVENT HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27337
-#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Channels",UK: SKY SPORTS MIX
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27349
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",UK: SKY SPORTS NEWS
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27324
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Channels",UK: SKY SPORTS PREMIER LEAGUE
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27336
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SPORTS PREMIER LEAGUE (IRELAND)
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27344
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SPORTS RACING
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27325
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88050
+#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="Channels",UK: Sky Cinema Premier HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88051
+#EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="Channels",UK: Sky Cinema Disney HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88052
 #EXTINF:0 tvg-id="Sky2.uk" group-title="Channels",UK: SKY Two HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27239
-#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="Channels",UK: SONY TV
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27299
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Star Gold UK
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27303
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",UK: SYFY
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27302
-#EXTINF:0 tvg-id="TCM.uk" group-title="Channels",UK: TCM (film)
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27296
-#EXTINF:0 tvg-id="TLC.uk" group-title="Channels",UK: TLC
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27266
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: TLC-IRELAND
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27259
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Trace Africa
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27317
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Trace Urban
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27321
-#EXTINF:0 tvg-id="TrueMovies.uk" group-title="Channels",UK: True Movies 1
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27287
-#EXTINF:0 tvg-id="VH1UK.uk" group-title="Channels",UK: VH1
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27318
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: VH1 Classis
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27295
-#EXTINF:0 tvg-id="VICELAND.uk" group-title="Channels",UK: Viceland
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27315
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88053
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Channels",UK: Nickelodeon
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88054
+#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Channels",UK: Nat Geo Wild HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88055
+#EXTINF:0 tvg-id="ITV4.uk" group-title="Channels",UK: ITV 4
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88056
+#EXTINF:0 tvg-id="ITV3.uk" group-title="Channels",UK: ITV 3 HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88057
+#EXTINF:0 tvg-id="ITV2.uk" group-title="Channels",UK: ITV 2 HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88058
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="Channels",UK: ITV 1 HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88059
+#EXTINF:0 tvg-id="History.uk" group-title="Channels",UK: History Channel
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88060
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",UK: Disney Junior
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88061
+#EXTINF:0 tvg-id="DiscoveryHistory.uk" group-title="Channels",UK: Discovery History
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88062
+#EXTINF:0 tvg-id="CBSReality.uk" group-title="Channels",UK: CBS Reality
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88063
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="Channels",UK: CBS Drama
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88064
+#EXTINF:0 tvg-id="CBSAction.uk" group-title="Channels",UK: CBS Action
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88065
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Channels",UK: National Geographic Channel
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88066
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="Channels",UK: Nick Jr
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88067
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Channels",UK: Discovery Channel
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88068
+#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="Channels",UK: Sky Cinema Drama & Romance HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88069
 #EXTINF:0 tvg-id="W.uk" group-title="Channels",UK: Watch
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27256
-#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Channels",UK:Animal Planet
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27352
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88070
+#EXTINF:0 tvg-id="Channel5.uk" group-title="Channels",UK: CHANNEL 5
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88071
+#EXTINF:0 tvg-id="BBC4.uk" group-title="Channels",UK: BBC 4 HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88072
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: TLC-IRELAND
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88073
+#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="Channels",UK: Sky Cinema Action & Adventure
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88074
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC entertainment HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88075
+#EXTINF:0 tvg-id="Dave.uk" group-title="Channels",UK:Dave
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88076
+#EXTINF:0 tvg-id="GoodFood.uk" group-title="Channels",UK: Good Food
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88077
+#EXTINF:0 tvg-id="Alibi.uk" group-title="Channels",UK:Alibi
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88078
+#EXTINF:0 tvg-id="SkyCinemaHits.uk" group-title="Channels",UK: Sky Cinema Hits HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88080
+#EXTINF:0 tvg-id="TLC.uk" group-title="Channels",UK:TLC
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88081
+#EXTINF:0 tvg-id="Quest.uk" group-title="Channels",UK:Quest
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88082
 #EXTINF:0 tvg-id="ext" group-title="Channels",UK:Film 4
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27351
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK:Travel
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27350
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Box Office HD UK [Live During Events Only]
-http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/37079
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport Box Office PPV [Live During Events Only] UK
-http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/14089
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Racing UK
-http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/37959
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Channels",UK: SKY SPORTS ACTION
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92140
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",UK: SKY SPORTS ARENA
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92141
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",UK: SKY SPORTS F1 HD
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92142
-#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Channels",UK: SKY SPORTS FOOTBALL
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92143
-#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Channels",UK: SKY SPORTS GOLF
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92144
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",UK: SKY SPORTS MAIN EVENT
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92145
-#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Channels",UK: SKY SPORTS MIX
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92146
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",UK: SKY SPORTS NEWS
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92147
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Channels",UK: SKY SPORTS PREMIER LEAGUE
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92148
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SPORTS PREMIER LEAGUE (IRELAND)
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92149
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",UK: SKY SPORTS CRICKET
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92150
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",UK: BT Sport 1 HD
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92151
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",UK: BT Sport 2 HD
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92152
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",UK: BT Sport 3 HD
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92153
-#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",UK: BT Sport ESPN HD
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92154
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 1
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92155
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 2
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92156
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 3
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92157
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 4
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92158
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 5
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92159
-#EXTINF:0 tvg-id="eirSport1.ie" group-title="Channels",UK: Eir Sport 1
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92160
-#EXTINF:0 tvg-id="eirSport2.ie" group-title="Channels",UK: Eir Sport 2
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92161
-#EXTINF:0 tvg-id="FreeSports.uk" group-title="Channels",UK: Free Sports
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92162
-#EXTINF:0 tvg-id="PremierSports.uk" group-title="Channels",UK: Premier Sports
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92163
-#EXTINF:0 tvg-id="MUTV.uk" group-title="Channels",UK: Manchester United TV
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92165
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SPORTS RACING
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92328
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88083
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",UK: Discovery Turbo
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88084
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Channels",UK: Discovery Science
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88085
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Channels",UK: Discovery
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88086
+#EXTINF:0 tvg-id="Channel4.uk" group-title="Channels",UK: Channel 4 HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88087
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Channels",UK:Animal Planet
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88088
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK:5 USA HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88089
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels",UK: Sky News HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88090
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK:Life Time
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88091
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="Channels",UK: Disney XD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88092
+#EXTINF:0 tvg-id="Sky1.uk" group-title="Channels",UK: Sky One HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88093
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",UK: BBC one FHD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88095
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",UK: BBC two HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88096
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC World News FHD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88097
+#EXTINF:0 tvg-id="Really.uk" group-title="Channels",UK: REALLY
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88098
+#EXTINF:0 tvg-id="ITVBe.uk" group-title="Channels",UK: ITVBE
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88099
+#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="Channels",UK: Sky Cinema Family HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88102
+#EXTINF:0 tvg-id="TrueMovies.uk" group-title="Channels",UK: True Movies 1
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88103
+#EXTINF:0 tvg-id="SkyMoviesIndie.uk" group-title="Channels",UK: Sky Cinema Select
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88104
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Al Jazeera English FHD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88105
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="Channels",UK: Baby TV
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88106
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="Channels",UK: Nicktoons
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88107
+#EXTINF:0 tvg-id="NickJrPeppa.uk" group-title="Channels",UK: Nick Jr Peppa
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88108
+#EXTINF:0 tvg-id="RTE2.ie" group-title="Channels",UK: RTE Two HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88114
+#EXTINF:0 tvg-id="RTEjr.uk" group-title="Channels",UK: RTE Junior
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88115
+#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="Channels",UK: SONY TV
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88116
+#EXTINF:0 tvg-id="Movies4Men.uk" group-title="Channels",UK: Movies 4 Men
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88117
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: HBO
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88118
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: HBO Comedy HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88119
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",UK: SYFY
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88120
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Star Gold UK
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88121
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Sony Sab UK
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88122
+#EXTINF:0 tvg-id="GOLD.uk" group-title="Channels",UK: Gold TV
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88124
+#EXTINF:0 tvg-id="FX.uk" group-title="Channels",UK: FOX FHD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88125
+#EXTINF:0 tvg-id="More4.uk" group-title="Channels",UK: More4
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88126
+#EXTINF:0 tvg-id="E.uk" group-title="Channels",UK: E!
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88127
+#EXTINF:0 tvg-id="VirginMediaTwo.ie" group-title="Channels",UK: 3E Ireland
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88128
+#EXTINF:0 tvg-id="SonyMax.uk" group-title="Channels",UK: Sony Max
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88129
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BET Star
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88130
+#EXTINF:0 tvg-id="RTENewsNow.ie" group-title="Channels",UK: RTE NEWS
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88139
+#EXTINF:0 tvg-id="Yesterday.uk" group-title="Channels",UK: Yesterday TV
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88140
+#EXTINF:0 tvg-id="RacingUK.uk" group-title="Channels",UK: Racing UK (Full HD)
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88141
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Sky Witness
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88142
+#EXTINF:0 tvg-id="StarzTV.uk" group-title="Channels",UK: STARZ TV
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88143
+#EXTINF:0 tvg-id="Drama.uk" group-title="Channels",UK: DRAMA
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88145
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: ITV Box Office UK
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88146
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Star Bharat UK
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88147
+#EXTINF:0 tvg-id="TheVault.uk" group-title="Channels",UK: The Vault
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88148
+#EXTINF:0 tvg-id="BLAZE.uk" group-title="Channels",UK: Blaze
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88149
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Box Hits HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88150
+#EXTINF:0 tvg-id="VICELAND.uk" group-title="Channels",UK: Viceland
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88151
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Kiss UK
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88152
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",UK: Cartoonito
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88153
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC CBeebies HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88154
+#EXTINF:0 tvg-id="Magic.uk" group-title="Channels",UK: Magic TV
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88155
+#EXTINF:0 tvg-id="ComedyCentralExtra.uk" group-title="Channels",UK: Comedy Central Extra
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88156
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Trace Mziki
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88157
+#EXTINF:0 tvg-id="BoxNation.uk" group-title="Channels",UK: BOXNATION
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88158
+#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="Channels",UK: SKY Atlantic HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88159
+#EXTINF:0 tvg-id="DiscoveryHistory.uk" group-title="Channels",Discovery History UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/11370
+#EXTINF:0 tvg-id="Investigation.uk" group-title="Channels",Discovery Investigation UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/11371
+#EXTINF:0 tvg-id="DiscoveryShed.uk" group-title="Channels",Discovery Shed UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/38077
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Channels",Discovery Science UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/11372
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",Discovery Turbo UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/14588
+#EXTINF:0 tvg-id="ext" group-title="Channels",RT Documentary HD UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/10715
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cartoon Network HD UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/20941
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",Disney Junior HD UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/26658
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="Channels",Disney XD HD UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/36463
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="Channels",Baby TV UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/25337
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Channels",Nickelodeon UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/25037
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Channels",Nick HD UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/39798
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="Channels",Nick Jr. UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/26659
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="Channels",Nick Jr Too UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/26586
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="Channels",Nicktoons UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/37862
+#EXTINF:0 tvg-id="ext" group-title="Channels",British Muslim TV UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/26585
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",Cartoonito UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/20940
+#EXTINF:0 tvg-id="CBeebies.uk" group-title="Channels",CBeebies HD UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/20938
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="Channels",CBS Drama UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/11360
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS Justice UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/85936
+#EXTINF:0 tvg-id="CBSReality1.uk" group-title="Channels",CBS Reality UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/11108
+#EXTINF:0 tvg-id="Challenge.uk" group-title="Channels",Challenge UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/32593
+#EXTINF:0 tvg-id="ClublandTV.uk" group-title="Channels",Clubland TV UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/23666
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",Comedy Central UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/11352
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",Comedy Central FHD UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/39803
+#EXTINF:0 tvg-id="ComedyCentralExtra.uk" group-title="Channels",Comedy Central Extra UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/11353
+#EXTINF:0 tvg-id="Dave.uk" group-title="Channels",Dave UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/25030
+#EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="Channels",DMAX UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/11359
+#EXTINF:0 tvg-id="Drama.uk" group-title="Channels",Drama UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/22789
+#EXTINF:0 tvg-id="E.uk" group-title="Channels",E! Entertainment UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/11117
+#EXTINF:0 tvg-id="E4.uk" group-title="Channels",E4 UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/39802
+#EXTINF:0 tvg-id="E4plus1.uk" group-title="Channels",E4 +1 UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/39801
+#EXTINF:0 tvg-id="Eden.uk" group-title="Channels",Eden UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/25040
+#EXTINF:0 tvg-id="ext" group-title="Channels",EuroNews HD UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/10904
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fashion TV HD UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/22517
+#EXTINF:0 tvg-id="ext" group-title="Channels",Film4 HD UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/25036
+#EXTINF:0 tvg-id="ext" group-title="Channels",Food Network HD UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/14587
+#EXTINF:0 tvg-id="FX.uk" group-title="Channels",Fox HD UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/25035
 #EXTINF:0 tvg-id="ext" group-title="Channels",UK: Trace Toca
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88042
 #EXTINF:0 tvg-id="ext" group-title="Channels",UK: Trace Africa
@@ -305,80 +271,18 @@ http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88043
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88044
 #EXTINF:0 tvg-id="Boomerang.uk" group-title="Channels",UK: BoomeRang
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88045
-#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Channels",UK: EuroSport 2
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88046
-#EXTINF:0 tvg-id="ADSports1.net" group-title="Sport",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ADSports2.net" group-title="Sport",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ADSports3.net" group-title="Sport",Abu Dhabi Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ADSports4.net" group-title="Sport",Abu Dhabi Sports 4
-https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="AlKass.net" group-title="Sport",Al Kass Online
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlmtuyvwjhd/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",Al Kass Sports 1
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vytrsvjs5r/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",Al Kass Sports 2
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2msfjofcxcw/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",Al Kass Sports 4
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fincy/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",Al Kass Sports 5
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5pve/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Racing
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Racing 2
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Racing 3
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="Sport",ESPN
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/master.m3u8
-#EXTINF:0 tvg-id="FightSports.svn" group-title="Sport",Fight Sports
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
-#EXTINF:0 tvg-id="FightSports.svn" group-title="Sport",Fight Sports
-http://210.210.155.35/uq2663/h/h05/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",FOX Sport HD 1
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:0 tvg-id="FoxSports.it" group-title="Sport",Fox Sports
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",ANAL
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",AST TV 1
-http://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",AST TV 2
-http://www.ast.tv/stream/2/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",Miami TV
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",MILF HD
-http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 1
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 10
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 11
-http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 12
-http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 13
-http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 14
-http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 15
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 16
-http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 2
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 3
-http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:0 tvg-i
+
+#EXTINF:0 tvg-id="MTVBase.uk" group-title="Channels",UK: MTV Base
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88109
+#EXTINF:0 tvg-id="MTVHits.uk" group-title="Channels",UK: MTV Hits
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88110
+#EXTINF:0 tvg-id="MTVMusic.uk" group-title="Channels",UK: MTV Music
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88111
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: VH1 Classis
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88112
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: MTV OMG
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88138
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: MOTOR TREND HD
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88623
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: MSG HD
@@ -819,12 +723,6 @@ http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88840
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88841
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Seattle
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88842
-#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="Channels",US: CBS Sports
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88843
-#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="Channels",US: CBS Sports HQ
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88844
-#EXTINF:0 tvg-id="CBSSportsNetworkHD.us" group-title="Channels",US: CBS SPORTS NETWORK HD
-http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88845
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS ST LOUIS
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88846
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Toronto Raptors
@@ -833,6 +731,145 @@ http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88847
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88848
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Washington
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88849
-#EXTINF:0 tvg-id="WCBSNewYorkCBSEast.us" group-title="Channels",US: CBSN HD
 
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Channels",UK: EuroSport 2
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88046
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Channels",UK: EUROSPORT 1
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88144
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Channels",UK: EuroSport 2
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88046
+#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="Channels",US: CBS Sports
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88843
+#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="Channels",US: CBS Sports HQ
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88844
+#EXTINF:0 tvg-id="CBSSportsNetworkHD.us" group-title="Channels",US: CBS SPORTS NETWORK HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88845
+#EXTINF:0 tvg-id="ADSports1.net" group-title="Sport",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ADSports2.net" group-title="Sport",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ADSports3.net" group-title="Sport",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ADSports4.net" group-title="Sport",Abu Dhabi Sports 4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="AlKass.net" group-title="Sport",Al Kass Online
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlmtuyvwjhd/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",Al Kass Sports 1
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vytrsvjs5r/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",Al Kass Sports 2
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2msfjofcxcw/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",Al Kass Sports 4
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fincy/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",Al Kass Sports 5
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5pve/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Racing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Sport",ESPN
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/master.m3u8
+#EXTINF:0 tvg-id="FightSports.svn" group-title="Sport",Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
+#EXTINF:0 tvg-id="FightSports.svn" group-title="Sport",Fight Sports
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Sport",Fox Sports
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Box Office HD UK [Live During Events Only]
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/37079
+#EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport Box Office PPV [Live During Events Only] UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/14089
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Racing UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/37959
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Channels",UK: SKY SPORTS ACTION
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92140
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",UK: SKY SPORTS ARENA
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92141
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",UK: SKY SPORTS F1 HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92142
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Channels",UK: SKY SPORTS FOOTBALL
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92143
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Channels",UK: SKY SPORTS GOLF
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92144
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",UK: SKY SPORTS MAIN EVENT
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92145
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Channels",UK: SKY SPORTS MIX
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92146
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",UK: SKY SPORTS NEWS
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92147
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Channels",UK: SKY SPORTS PREMIER LEAGUE
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92148
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SPORTS PREMIER LEAGUE (IRELAND)
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92149
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",UK: SKY SPORTS CRICKET
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92150
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",UK: BT Sport 1 HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92151
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",UK: BT Sport 2 HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92152
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",UK: BT Sport 3 HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92153
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",UK: BT Sport ESPN HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92154
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 1
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92155
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 2
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92156
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 3
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92157
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 4
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92158
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 5
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92159
+#EXTINF:0 tvg-id="eirSport1.ie" group-title="Channels",UK: Eir Sport 1
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92160
+#EXTINF:0 tvg-id="eirSport2.ie" group-title="Channels",UK: Eir Sport 2
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92161
+#EXTINF:0 tvg-id="FreeSports.uk" group-title="Channels",UK: Free Sports
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92162
+#EXTINF:0 tvg-id="PremierSports.uk" group-title="Channels",UK: Premier Sports
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92163
+#EXTINF:0 tvg-id="MUTV.uk" group-title="Channels",UK: Manchester United TV
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92165
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SPORTS RACING
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92328
 
+#EXTINF:0 tvg-id="ext" group-title="XXX",ANAL
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",AST TV 1
+http://www.ast.tv/stream/1/cellular.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",AST TV 2
+http://www.ast.tv/stream/2/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",Miami TV
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",MILF HD
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 1
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 10
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 11
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 12
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 13
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 14
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 15
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 16
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 2
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 3
+http://live.redtraffic.xyz/bigass.m3u8
