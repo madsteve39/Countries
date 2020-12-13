@@ -1,4 +1,4 @@
-#EXTM3U
+
 #EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="Channels",UK: Sky Cinema Comedy HD
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88047
 #EXTINF:0 tvg-id="SkyBrits.uk" group-title="Channels",UK: Sky Cinema Greats HD
@@ -732,17 +732,17 @@ http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88848
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Washington
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88849
 
-#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Channels",UK: EuroSport 2
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Sport",,UK: EuroSport 2
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88046
-#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Channels",UK: EUROSPORT 1
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Sport",,UK: EUROSPORT 1
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88144
-#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Channels",UK: EuroSport 2
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Sport",,UK: EuroSport 2
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88046
-#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="Channels",US: CBS Sports
+#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="Sport",,US: CBS Sports
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88843
-#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="Channels",US: CBS Sports HQ
+#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="Sport",,US: CBS Sports HQ
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88844
-#EXTINF:0 tvg-id="CBSSportsNetworkHD.us" group-title="Channels",US: CBS SPORTS NETWORK HD
+#EXTINF:0 tvg-id="CBSSportsNetworkHD.us" group-title="Sport",,US: CBS SPORTS NETWORK HD
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88845
 #EXTINF:0 tvg-id="ADSports1.net" group-title="Sport",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
@@ -768,7 +768,7 @@ https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Racing 3
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="Sport",ESPN
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Sport",,ESPN
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/master.m3u8
 #EXTINF:0 tvg-id="FightSports.svn" group-title="Sport",Fight Sports
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
@@ -782,63 +782,63 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/master.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Box Office HD UK [Live During Events Only]
+#EXTINF:0 tvg-id="ext" group-title="Sport",,Sky Sports Box Office HD UK [Live During Events Only]
 http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/37079
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport Box Office PPV [Live During Events Only] UK
+#EXTINF:0 tvg-id="ext" group-title="Sport",,BT Sport Box Office PPV [Live During Events Only] UK
 http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/14089
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Racing UK
+#EXTINF:0 tvg-id="ext" group-title="Sport",,Sky Sports Racing UK
 http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/37959
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Channels",UK: SKY SPORTS ACTION
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Sport",,UK: SKY SPORTS ACTION
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92140
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",UK: SKY SPORTS ARENA
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Sport",,UK: SKY SPORTS ARENA
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92141
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",UK: SKY SPORTS F1 HD
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Sport",,UK: SKY SPORTS F1 HD
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92142
-#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Channels",UK: SKY SPORTS FOOTBALL
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Sport",,UK: SKY SPORTS FOOTBALL
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92143
-#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Channels",UK: SKY SPORTS GOLF
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Sport",,UK: SKY SPORTS GOLF
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92144
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",UK: SKY SPORTS MAIN EVENT
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Sport",,UK: SKY SPORTS MAIN EVENT
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92145
-#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Channels",UK: SKY SPORTS MIX
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Sport",,UK: SKY SPORTS MIX
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92146
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",UK: SKY SPORTS NEWS
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Sport",,UK: SKY SPORTS NEWS
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92147
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Channels",UK: SKY SPORTS PREMIER LEAGUE
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sport",,UK: SKY SPORTS PREMIER LEAGUE
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92148
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SPORTS PREMIER LEAGUE (IRELAND)
+#EXTINF:0 tvg-id="ext" group-title="Sport",,UK: SKY SPORTS PREMIER LEAGUE (IRELAND)
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92149
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",UK: SKY SPORTS CRICKET
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Sport",,UK: SKY SPORTS CRICKET
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92150
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",UK: BT Sport 1 HD
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Sport",,UK: BT Sport 1 HD
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92151
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",UK: BT Sport 2 HD
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Sport",,UK: BT Sport 2 HD
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92152
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",UK: BT Sport 3 HD
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Sport",,UK: BT Sport 3 HD
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92153
-#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",UK: BT Sport ESPN HD
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Sport",,UK: BT Sport ESPN HD
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92154
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 1
+#EXTINF:0 tvg-id="ext" group-title="Sport",,UK: BT Sport Extra 1
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92155
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 2
+#EXTINF:0 tvg-id="ext" group-title="Sport",,UK: BT Sport Extra 2
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92156
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 3
+#EXTINF:0 tvg-id="ext" group-title="Sport",,UK: BT Sport Extra 3
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92157
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 4
+#EXTINF:0 tvg-id="ext" group-title="Sport",,UK: BT Sport Extra 4
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92158
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 5
+#EXTINF:0 tvg-id="ext" group-title="Sport",,UK: BT Sport Extra 5
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92159
-#EXTINF:0 tvg-id="eirSport1.ie" group-title="Channels",UK: Eir Sport 1
+#EXTINF:0 tvg-id="eirSport1.ie" group-title="Sport",,UK: Eir Sport 1
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92160
-#EXTINF:0 tvg-id="eirSport2.ie" group-title="Channels",UK: Eir Sport 2
+#EXTINF:0 tvg-id="eirSport2.ie" group-title="Sport",,UK: Eir Sport 2
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92161
-#EXTINF:0 tvg-id="FreeSports.uk" group-title="Channels",UK: Free Sports
+#EXTINF:0 tvg-id="FreeSports.uk" group-title="Sport",,UK: Free Sports
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92162
-#EXTINF:0 tvg-id="PremierSports.uk" group-title="Channels",UK: Premier Sports
+#EXTINF:0 tvg-id="PremierSports.uk" group-title="Sport",,UK: Premier Sports
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92163
-#EXTINF:0 tvg-id="MUTV.uk" group-title="Channels",UK: Manchester United TV
+#EXTINF:0 tvg-id="MUTV.uk" group-title="Sport",,UK: Manchester United TV
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92165
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SPORTS RACING
+#EXTINF:0 tvg-id="ext" group-title="Sport",,UK: SKY SPORTS RACING
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92328
 
 #EXTINF:0 tvg-id="ext" group-title="XXX",ANAL
