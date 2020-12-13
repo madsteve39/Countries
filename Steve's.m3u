@@ -1,14 +1,15 @@
-
-#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="Channels",UK: Sky Cinema Comedy HD
+#EXTM3U
+#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="uk",UK: Sky Cinema Comedy HD
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88047
-#EXTINF:0 tvg-id="SkyBrits.uk" group-title="Channels",UK: Sky Cinema Greats HD
+#EXTINF:0 tvg-id="SkyBrits.uk" group-title="uk",UK: Sky Cinema Greats HD
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88048
-#EXTINF:0 tvg-id="SkyCinemaThriller.uk" group-title="Channels",UK: Sky Cinema Crime & Thriller HD
+#EXTINF:0 tvg-id="SkyCinemaThriller.uk" group-title="uk",UK: Sky Cinema Crime & Thriller HD
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88049
-#EXTINF:0 tvg-id="SkySciFiHorror.uk" group-title="Channels",UK: Sky Cinema Sci-fi & Horror HD
+#EXTINF:0 tvg-id="SkySciFiHorror.uk" group-title="uk",UK: Sky Cinema Sci-fi & Horror HD
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88050
-#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="Channels",UK: Sky Cinema Premier HD
+#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="uk",UK: Sky Cinema Premier HD
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88051
+
 #EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="Channels",UK: Sky Cinema Disney HD
 http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88052
 #EXTINF:0 tvg-id="Sky2.uk" group-title="Channels",UK: SKY Two HD
