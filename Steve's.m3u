@@ -1,3 +1,33 @@
 #EXTM3U
-#EXTINF:0 tvg-id="PremierSports.uk" group-title="Channels",UK: Premier Sports
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27332
+#EXTINF:0 tvg-id="Really.uk" group-title="Channels",UK: REALLY
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27282
+#EXTINF:0 tvg-id="RTE1.ie" group-title="Channels",UK: RTE One
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27297
+#EXTINF:0 tvg-id="RTE2.ie" group-title="Channels",UK: RTE Two
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27298
+#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="Channels",UK: SKY Atlantic HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27238
+#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="Channels",UK: Sky Cinema Action FHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27260
+#EXTINF:0 tvg-id="SkyCinemaThriller.uk" group-title="Channels",UK: Sky Cinema Crime & Thriller HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27234
+#EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="Channels",UK: Sky Cinema Disney FHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27237
+#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="Channels",UK: Sky Cinema Drama FHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27255
+#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="Channels",UK: Sky Cinema Family HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27286
+#EXTINF:0 tvg-id="SkyBrits.uk" group-title="Channels",UK: Sky Cinema Greats HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27233
+#EXTINF:0 tvg-id="SkyCinemaHits.uk" group-title="Channels",UK: Sky Cinema Hits HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27265
+#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="Channels",UK: Sky Cinema Premier HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27236
+#EXTINF:0 tvg-id="SkySciFiHorror.uk" group-title="Channels",UK: Sky Cinema Sci-fi & Horror HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27235
+#EXTINF:0 tvg-id="SkyMoviesIndie.uk" group-title="Channels",UK: Sky Cinema Select HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27288
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels",UK: Sky News HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27273
+#EXTINF:0 tvg-id="Sky1.uk" group-title="Channels",UK: Sky One HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27277
