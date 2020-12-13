@@ -123,7 +123,7 @@ http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27277
 http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27299
 #EXTINF:0 tvg-id="ext" group-title="UK",UK: Star Gold UK
 http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27303
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",UK: SYFY
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="UK",UK: SYFY
 http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27302
 #EXTINF:0 tvg-id="TCM.uk" group-title="UK",UK: TCM (film)
 http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27296
@@ -211,8 +211,6 @@ http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27336
 http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27344
 #EXTINF:0 tvg-id="ext" group-title="Sport",UK: SKY SPORTS RACING
 
-#EXTINF:0 tvg-id="ext" group-title="XXX",ANAL
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
 #EXTINF:0 tvg-id="ext" group-title="XXX",AST TV 1
 http://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:0 tvg-id="ext" group-title="XXX",AST TV 2
