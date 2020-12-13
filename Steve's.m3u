@@ -1,33 +1,35 @@
 #EXTM3U
-#EXTINF:0 tvg-id="Really.uk" group-title="Channels",UK: REALLY
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27282
-#EXTINF:0 tvg-id="RTE1.ie" group-title="Channels",UK: RTE One
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27297
-#EXTINF:0 tvg-id="RTE2.ie" group-title="Channels",UK: RTE Two
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27298
-#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="Channels",UK: SKY Atlantic HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27238
-#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="Channels",UK: Sky Cinema Action FHD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27260
-#EXTINF:0 tvg-id="SkyCinemaThriller.uk" group-title="Channels",UK: Sky Cinema Crime & Thriller HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27234
-#EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="Channels",UK: Sky Cinema Disney FHD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27237
-#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="Channels",UK: Sky Cinema Drama FHD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27255
-#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="Channels",UK: Sky Cinema Family HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27286
-#EXTINF:0 tvg-id="SkyBrits.uk" group-title="Channels",UK: Sky Cinema Greats HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27233
-#EXTINF:0 tvg-id="SkyCinemaHits.uk" group-title="Channels",UK: Sky Cinema Hits HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27265
-#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="Channels",UK: Sky Cinema Premier HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27236
-#EXTINF:0 tvg-id="SkySciFiHorror.uk" group-title="Channels",UK: Sky Cinema Sci-fi & Horror HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27235
-#EXTINF:0 tvg-id="SkyMoviesIndie.uk" group-title="Channels",UK: Sky Cinema Select HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27288
-#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels",UK: Sky News HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27273
-#EXTINF:0 tvg-id="Sky1.uk" group-title="Channels",UK: Sky One HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27277
+#EXTINF:0 tvg-id="Sky2.uk" group-title="Channels",UK: SKY Two HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27239
+#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="Channels",UK: SONY TV
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27299
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Star Gold UK
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27303
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",UK: SYFY
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27302
+#EXTINF:0 tvg-id="TCM.uk" group-title="Channels",UK: TCM (film)
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27296
+#EXTINF:0 tvg-id="TLC.uk" group-title="Channels",UK: TLC
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27266
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: TLC-IRELAND
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27259
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Trace Africa
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27317
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Trace Urban
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27321
+#EXTINF:0 tvg-id="TrueMovies.uk" group-title="Channels",UK: True Movies 1
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27287
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="Channels",UK: VH1
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27318
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: VH1 Classis
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27295
+#EXTINF:0 tvg-id="VICELAND.uk" group-title="Channels",UK: Viceland
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27315
+#EXTINF:0 tvg-id="W.uk" group-title="Channels",UK: Watch
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27256
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Channels",UK:Animal Planet
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27352
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK:Film 4
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27351
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK:Travel
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27350
