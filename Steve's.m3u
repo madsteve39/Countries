@@ -1,24 +1,3 @@
 #EXTM3U
-#EXTINF:0 tvg-id="More4.uk" group-title="Channels",UK: More4
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27307
-#EXTINF:0 tvg-id="MTV.uk" group-title="Channels",UK: MTV
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27309
-#EXTINF:0 tvg-id="MTVBase.uk" group-title="Channels",UK: MTV Base
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27293
-#EXTINF:0 tvg-id="MTVHits.uk" group-title="Channels",UK: MTV Hits
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27294
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: MTV OMG
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27311
-#EXTINF:0 tvg-id="MUTV.uk" group-title="Channels",UK: Mu TV
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27274
-#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Channels",UK: Nat Geo Wild HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27241
-#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Channels",UK: National Geographic Channel
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27252
-#EXTINF:0 tvg-id="NickJunior.uk" group-title="Channels",UK: Nick Jr
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27253
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Channels",UK: Nickelodeon
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27240
-#EXTINF:0 tvg-id="Nicktoons.uk" group-title="Channels",UK: Nicktoons
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27292
-#EXTINF:0 tvg-id="PickTV.uk" group-title="Channels",UK: PICK
+#EXTINF:0 tvg-id="PremierSports.uk" group-title="Channels",UK: Premier Sports
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27332
