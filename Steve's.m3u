@@ -1,35 +1,29 @@
 #EXTM3U
-#EXTINF:0 tvg-id="FightSports.svn" group-title="Sport",Fight Sports
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
-#EXTINF:0 tvg-id="FightSports.svn" group-title="Sport",Fight Sports
-http://210.210.155.35/uq2663/h/h05/index.m3u8
-#EXTINF:0 tvg-id="eirSport1.ie" group-title="Channels",UK: Eir Sport 1
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27331
-#EXTINF:0 tvg-id="eirSport2.ie" group-title="Channels",UK: Eir Sport 2
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27346
-#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Channels",UK: EUROSPORT 1
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27348
-#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Channels",UK: EuroSport 2
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Channels",UK: SKY SPORTS ACTION FHD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27339
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",UK: SKY SPORTS ARENA
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27342
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",UK: SKY SPORTS CRICKET FHD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27338
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",UK: SKY SPORTS F1 HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27343
-#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Channels",UK: SKY SPORTS FOOTBALL FHD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27341
-#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Channels",UK: SKY SPORTS GOLF FHD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27340
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",UK: SKY SPORTS MAIN EVENT HD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27337
-#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Channels",UK: SKY SPORTS MIX
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27349
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",UK: SKY SPORTS NEWS
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27324
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Channels",UK: SKY SPORTS PREMIER LEAGUE
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27336
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SPORTS PREMIER LEAGUE (IRELAND)
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27344
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SPORTS RACING
+#EXTINF:0 tvg-id="FiveUSA.uk" group-title="Channels",UK: 5 USA
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27272
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Al Jazeera English FHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27290
+#EXTINF:0 tvg-id="Alibi.uk" group-title="Channels",UK: Alibi
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27264
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="Channels",UK: Baby TV
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27291
+#EXTINF:0 tvg-id="BBC4.uk" group-title="Channels",UK: BBC 4 HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27258
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC alba HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27231
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC CBeebies HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27320
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC entertainment HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27261
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",UK: BBC one FHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27279
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",UK: BBC two HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27280
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC World News HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27281
+#EXTINF:0 tvg-id="BLAZE.uk" group-title="Channels",UK: Blaze
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27313
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="Channels",UK: BoomeRang
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27232
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Box Hits HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27314
