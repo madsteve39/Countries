@@ -190,7 +190,6 @@ http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27331
 http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27346
 #EXTINF:0 tvg-id="Eurosport1.uk" group-title="Sport",UK: EUROSPORT 1
 http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27348
-#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Sport",UK: EuroSport 2
 #EXTINF:0 tvg-id="SkySpAction.uk" group-title="Sport",UK: SKY SPORTS ACTION FHD
 http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27339
 #EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Sport",UK: SKY SPORTS CRICKET FHD
@@ -209,7 +208,6 @@ http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27324
 http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27336
 #EXTINF:0 tvg-id="ext" group-title="Sport",UK: SKY SPORTS PREMIER LEAGUE (IRELAND)
 http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27344
-#EXTINF:0 tvg-id="ext" group-title="Sport",UK: SKY SPORTS RACING
 
 #EXTINF:0 tvg-id="ext" group-title="XXX",AST TV 1
 http://www.ast.tv/stream/1/cellular.m3u8
