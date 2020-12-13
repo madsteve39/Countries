@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",UK: Cartoonito
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27319
-#EXTINF:0 tvg-id="CBSAction.uk" group-title="Channels",UK: CBS Action
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27251
-#EXTINF:0 tvg-id="CBSDrama.uk" group-title="Channels",UK: CBS Drama
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27250
-#EXTINF:0 tvg-id="CBSReality.uk" group-title="Channels",UK: CBS Reality
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27249
-#EXTINF:0 tvg-id="Channel4.uk" group-title="Channels",UK: Channel 4
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27271
-#EXTINF:0 tvg-id="Channel5.uk" group-title="Channels",UK: CHANNEL 5
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27257
-#EXTINF:0 tvg-id="ChelseaTV.uk" group-title="Channels",UK: Chelsea TV
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27278
-#EXTINF:0 tvg-id="Dave.uk" group-title="Channels",UK: Dave
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27262
-#EXTINF:0 tvg-id="Discovery.uk" group-title="Channels",UK: Discovery
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27270
-#EXTINF:0 tvg-id="Discovery.uk" group-title="Channels",UK: Discovery Channel
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27254
-#EXTINF:0 tvg-id="DiscoveryHistory.uk" group-title="Channels",UK: Discovery History
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27248
-#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Channels",UK: Discovery Science
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27269
-#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",UK: Discovery Turbo
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27268
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",UK: Disney Junior
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27247
-#EXTINF:0 tvg-id="DisneyXD.uk" group-title="Channels",UK: Disney XD
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27276
-#EXTINF:0 tvg-id="Drama.uk" group-title="Channels",UK: DRAMA
-http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27312
+#EXTINF:0 tvg-id="Film4.uk" group-title="Channels",UK: Film 4 HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27289
+#EXTINF:0 tvg-id="FX.uk" group-title="Channels",UK: FOX FHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27306
+#EXTINF:0 tvg-id="FreeSports.uk" group-title="Channels",UK: Free Sports
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27345
+#EXTINF:0 tvg-id="GOLD.uk" group-title="Channels",UK: Gold TV
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27305
+#EXTINF:0 tvg-id="GoodFood.uk" group-title="Channels",UK: Good Food
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27263
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: HBO
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27300
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: HBO Comedy HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27301
+#EXTINF:0 tvg-id="History.uk" group-title="Channels",UK: History Channel
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27246
+#EXTINF:0 tvg-id="Investigation.uk" group-title="Channels",UK: INVESTIGATION DISCOVERY
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27310
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="Channels",UK: ITV 1
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27245
+#EXTINF:0 tvg-id="ITV2.uk" group-title="Channels",UK: ITV 2 HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27244
+#EXTINF:0 tvg-id="ITV3.uk" group-title="Channels",UK: ITV 3
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27243
+#EXTINF:0 tvg-id="ITV4.uk" group-title="Channels",UK: ITV 4
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27242
+#EXTINF:0 tvg-id="ITVBe.uk" group-title="Channels",UK: ITVBE
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27283
+#EXTINF:0 tvg-id="Kerrang.uk" group-title="Channels",UK: Kerrang!
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27316
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="Channels",UK: LifeTime
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27275
