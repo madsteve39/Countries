@@ -1,0 +1,838 @@
+#EXTM3U
+#EXTINF:0 tvg-id="FiveUSA.uk" group-title="Channels",UK: 5 USA
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27272
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Al Jazeera English FHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27290
+#EXTINF:0 tvg-id="Alibi.uk" group-title="Channels",UK: Alibi
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27264
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="Channels",UK: Baby TV
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27291
+#EXTINF:0 tvg-id="BBC4.uk" group-title="Channels",UK: BBC 4 HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27258
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC alba HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27231
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC CBeebies HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27320
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC entertainment HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27261
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",UK: BBC one FHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27279
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",UK: BBC two HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27280
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC World News HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27281
+#EXTINF:0 tvg-id="BLAZE.uk" group-title="Channels",UK: Blaze
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27313
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="Channels",UK: BoomeRang
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27232
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Box Hits HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27314
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",UK: BT Sport 1 HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27333
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",UK: BT Sport 2 HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27334
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",UK: BT Sport 3 HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27335
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",UK: BT Sport ESPN HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27323
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 1
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27326
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 2
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27327
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 3
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27328
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 4
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27329
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 5
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27330
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",UK: Cartoonito
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27319
+#EXTINF:0 tvg-id="CBSAction.uk" group-title="Channels",UK: CBS Action
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27251
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="Channels",UK: CBS Drama
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27250
+#EXTINF:0 tvg-id="CBSReality.uk" group-title="Channels",UK: CBS Reality
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27249
+#EXTINF:0 tvg-id="Channel4.uk" group-title="Channels",UK: Channel 4
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27271
+#EXTINF:0 tvg-id="Channel5.uk" group-title="Channels",UK: CHANNEL 5
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27257
+#EXTINF:0 tvg-id="ChelseaTV.uk" group-title="Channels",UK: Chelsea TV
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27278
+#EXTINF:0 tvg-id="Dave.uk" group-title="Channels",UK: Dave
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27262
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Channels",UK: Discovery
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27270
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Channels",UK: Discovery Channel
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27254
+#EXTINF:0 tvg-id="DiscoveryHistory.uk" group-title="Channels",UK: Discovery History
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27248
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Channels",UK: Discovery Science
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27269
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",UK: Discovery Turbo
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27268
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",UK: Disney Junior
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27247
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="Channels",UK: Disney XD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27276
+#EXTINF:0 tvg-id="Drama.uk" group-title="Channels",UK: DRAMA
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27312
+#EXTINF:0 tvg-id="E.uk" group-title="Channels",UK: E!
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27308
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: EDGE SPORT HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27347
+#EXTINF:0 tvg-id="eirSport1.ie" group-title="Channels",UK: Eir Sport 1
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27331
+#EXTINF:0 tvg-id="eirSport2.ie" group-title="Channels",UK: Eir Sport 2
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27346
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Channels",UK: EUROSPORT 1
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27348
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Channels",UK: EuroSport 2
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27322
+#EXTINF:0 tvg-id="Film4.uk" group-title="Channels",UK: Film 4 HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27289
+#EXTINF:0 tvg-id="FX.uk" group-title="Channels",UK: FOX FHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27306
+#EXTINF:0 tvg-id="FreeSports.uk" group-title="Channels",UK: Free Sports
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27345
+#EXTINF:0 tvg-id="GOLD.uk" group-title="Channels",UK: Gold TV
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27305
+#EXTINF:0 tvg-id="GoodFood.uk" group-title="Channels",UK: Good Food
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27263
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: HBO
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27300
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: HBO Comedy HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27301
+#EXTINF:0 tvg-id="History.uk" group-title="Channels",UK: History Channel
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27246
+#EXTINF:0 tvg-id="Investigation.uk" group-title="Channels",UK: INVESTIGATION DISCOVERY
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27310
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="Channels",UK: ITV 1
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27245
+#EXTINF:0 tvg-id="ITV2.uk" group-title="Channels",UK: ITV 2 HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27244
+#EXTINF:0 tvg-id="ITV3.uk" group-title="Channels",UK: ITV 3
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27243
+#EXTINF:0 tvg-id="ITV4.uk" group-title="Channels",UK: ITV 4
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27242
+#EXTINF:0 tvg-id="ITVBe.uk" group-title="Channels",UK: ITVBE
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27283
+#EXTINF:0 tvg-id="Kerrang.uk" group-title="Channels",UK: Kerrang!
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27316
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="Channels",UK: LifeTime
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27275
+#EXTINF:0 tvg-id="LiverpoolFCTV.uk" group-title="Channels",UK: Liverpool FC
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27285
+#EXTINF:0 tvg-id="More4.uk" group-title="Channels",UK: More4
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27307
+#EXTINF:0 tvg-id="MTV.uk" group-title="Channels",UK: MTV
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27309
+#EXTINF:0 tvg-id="MTVBase.uk" group-title="Channels",UK: MTV Base
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27293
+#EXTINF:0 tvg-id="MTVHits.uk" group-title="Channels",UK: MTV Hits
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27294
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: MTV OMG
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27311
+#EXTINF:0 tvg-id="MUTV.uk" group-title="Channels",UK: Mu TV
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27274
+#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Channels",UK: Nat Geo Wild HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27241
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Channels",UK: National Geographic Channel
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27252
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="Channels",UK: Nick Jr
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27253
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Channels",UK: Nickelodeon
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27240
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="Channels",UK: Nicktoons
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27292
+#EXTINF:0 tvg-id="PickTV.uk" group-title="Channels",UK: PICK
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27267
+#EXTINF:0 tvg-id="PremierSports.uk" group-title="Channels",UK: Premier Sports
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27332
+#EXTINF:0 tvg-id="Really.uk" group-title="Channels",UK: REALLY
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27282
+#EXTINF:0 tvg-id="RTE1.ie" group-title="Channels",UK: RTE One
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27297
+#EXTINF:0 tvg-id="RTE2.ie" group-title="Channels",UK: RTE Two
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27298
+#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="Channels",UK: SKY Atlantic HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27238
+#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="Channels",UK: Sky Cinema Action FHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27260
+#EXTINF:0 tvg-id="SkyCinemaThriller.uk" group-title="Channels",UK: Sky Cinema Crime & Thriller HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27234
+#EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="Channels",UK: Sky Cinema Disney FHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27237
+#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="Channels",UK: Sky Cinema Drama FHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27255
+#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="Channels",UK: Sky Cinema Family HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27286
+#EXTINF:0 tvg-id="SkyBrits.uk" group-title="Channels",UK: Sky Cinema Greats HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27233
+#EXTINF:0 tvg-id="SkyCinemaHits.uk" group-title="Channels",UK: Sky Cinema Hits HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27265
+#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="Channels",UK: Sky Cinema Premier HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27236
+#EXTINF:0 tvg-id="SkySciFiHorror.uk" group-title="Channels",UK: Sky Cinema Sci-fi & Horror HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27235
+#EXTINF:0 tvg-id="SkyMoviesIndie.uk" group-title="Channels",UK: Sky Cinema Select HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27288
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels",UK: Sky News HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27273
+#EXTINF:0 tvg-id="Sky1.uk" group-title="Channels",UK: Sky One HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27277
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Channels",UK: SKY SPORTS ACTION FHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27339
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",UK: SKY SPORTS ARENA
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27342
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",UK: SKY SPORTS CRICKET FHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27338
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",UK: SKY SPORTS F1 HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27343
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Channels",UK: SKY SPORTS FOOTBALL FHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27341
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Channels",UK: SKY SPORTS GOLF FHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27340
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",UK: SKY SPORTS MAIN EVENT HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27337
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Channels",UK: SKY SPORTS MIX
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27349
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",UK: SKY SPORTS NEWS
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27324
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Channels",UK: SKY SPORTS PREMIER LEAGUE
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27336
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SPORTS PREMIER LEAGUE (IRELAND)
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27344
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SPORTS RACING
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27325
+#EXTINF:0 tvg-id="Sky2.uk" group-title="Channels",UK: SKY Two HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27239
+#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="Channels",UK: SONY TV
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27299
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Star Gold UK
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27303
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",UK: SYFY
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27302
+#EXTINF:0 tvg-id="TCM.uk" group-title="Channels",UK: TCM (film)
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27296
+#EXTINF:0 tvg-id="TLC.uk" group-title="Channels",UK: TLC
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27266
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: TLC-IRELAND
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27259
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Trace Africa
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27317
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Trace Urban
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27321
+#EXTINF:0 tvg-id="TrueMovies.uk" group-title="Channels",UK: True Movies 1
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27287
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="Channels",UK: VH1
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27318
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: VH1 Classis
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27295
+#EXTINF:0 tvg-id="VICELAND.uk" group-title="Channels",UK: Viceland
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27315
+#EXTINF:0 tvg-id="W.uk" group-title="Channels",UK: Watch
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27256
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Channels",UK:Animal Planet
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27352
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK:Film 4
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27351
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK:Travel
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27350
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Box Office HD UK [Live During Events Only]
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/37079
+#EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport Box Office PPV [Live During Events Only] UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/14089
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Racing UK
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/37959
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Channels",UK: SKY SPORTS ACTION
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92140
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",UK: SKY SPORTS ARENA
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92141
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",UK: SKY SPORTS F1 HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92142
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Channels",UK: SKY SPORTS FOOTBALL
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92143
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Channels",UK: SKY SPORTS GOLF
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92144
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",UK: SKY SPORTS MAIN EVENT
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92145
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Channels",UK: SKY SPORTS MIX
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92146
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",UK: SKY SPORTS NEWS
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92147
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Channels",UK: SKY SPORTS PREMIER LEAGUE
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92148
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SPORTS PREMIER LEAGUE (IRELAND)
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92149
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",UK: SKY SPORTS CRICKET
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92150
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",UK: BT Sport 1 HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92151
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",UK: BT Sport 2 HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92152
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",UK: BT Sport 3 HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92153
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",UK: BT Sport ESPN HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92154
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 1
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92155
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 2
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92156
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 3
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92157
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 4
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92158
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT Sport Extra 5
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92159
+#EXTINF:0 tvg-id="eirSport1.ie" group-title="Channels",UK: Eir Sport 1
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92160
+#EXTINF:0 tvg-id="eirSport2.ie" group-title="Channels",UK: Eir Sport 2
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92161
+#EXTINF:0 tvg-id="FreeSports.uk" group-title="Channels",UK: Free Sports
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92162
+#EXTINF:0 tvg-id="PremierSports.uk" group-title="Channels",UK: Premier Sports
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92163
+#EXTINF:0 tvg-id="MUTV.uk" group-title="Channels",UK: Manchester United TV
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92165
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY SPORTS RACING
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/92328
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Trace Toca
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88042
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Trace Africa
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88043
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC alba HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88044
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="Channels",UK: BoomeRang
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88045
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Channels",UK: EuroSport 2
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88046
+#EXTINF:0 tvg-id="ADSports1.net" group-title="Sport",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ADSports2.net" group-title="Sport",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ADSports3.net" group-title="Sport",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ADSports4.net" group-title="Sport",Abu Dhabi Sports 4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="AlKass.net" group-title="Sport",Al Kass Online
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlmtuyvwjhd/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",Al Kass Sports 1
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vytrsvjs5r/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",Al Kass Sports 2
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2msfjofcxcw/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",Al Kass Sports 4
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fincy/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",Al Kass Sports 5
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5pve/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Racing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Sport",ESPN
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/master.m3u8
+#EXTINF:0 tvg-id="FightSports.svn" group-title="Sport",Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
+#EXTINF:0 tvg-id="FightSports.svn" group-title="Sport",Fight Sports
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Sport",Fox Sports
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",ANAL
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",AST TV 1
+http://www.ast.tv/stream/1/cellular.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",AST TV 2
+http://www.ast.tv/stream/2/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",Miami TV
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",MILF HD
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 1
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 10
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 11
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 12
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 13
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 14
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 15
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 16
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 2
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 3
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:0 tvg-i
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MOTOR TREND HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88623
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MSG HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88624
+#EXTINF:0 tvg-id="MSGPlusHD.us" group-title="Channels",US: MSG Plus HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88625
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MSG2
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88626
+#EXTINF:0 tvg-id="MSNBCHD.us" group-title="Channels",US: MSNBC HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88627
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MTV 2 HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88628
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MTV BASE HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88629
+#EXTINF:0 tvg-id="MTVClassic.us" group-title="Channels",US: MTV CLASSIC
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88630
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MTV EAST
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88631
+#EXTINF:0 tvg-id="MTVHD.us" group-title="Channels",US: MTV HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88632
+#EXTINF:0 tvg-id="MTVLive.us" group-title="Channels",US: MTV Live HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88633
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MTV Rocks
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88634
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MUSIC CHOICE
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88635
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Music Choice - Hip Hop
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88636
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MUSIC CHOICE - HIP HOP R&B
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88637
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MUSIC CHOICE - METAL
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88638
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MUSIC CHOICE - POP COUNTRY
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88639
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MUSIC CHOICE - R&B SOUL
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88640
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MUSIC CHOICE - RAP
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88641
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MUSIC CHOICE - RAP 2K
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88642
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MUSIC CHOICE - ROCK
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88643
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MUSIC CHOICE - THROWBACK JAMS
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88644
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MUSIC CHOICE - TODAYS COUNTRY
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88645
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MUSIC CHOICE - TODDLER TUNES
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88646
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MUSIC CHOICE - TROPICALES
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88647
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MUSIC CHOICE - Y2K
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88648
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: My 9 New York
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88649
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: My 13 Los Angeles
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88650
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: My 24
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88651
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: My 45 Arizona
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88652
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: My RDC
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88653
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MY13 LOS ANGELES CA KCOP
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88654
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MY50 CHICAGO IL WPWR
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88655
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MY9 SEACAUCUS NJ WWOR
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88656
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MY9 TV
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88657
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: MYUTAH SALT LAKE CITY UT KMYU
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88658
+#EXTINF:0 tvg-id="NASATV.us" group-title="Channels",US: NASA TV HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88659
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NAT GEO EAST
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88660
+#EXTINF:0 tvg-id="NationalGeographicChannelHD.us" group-title="Channels",US: NAT GEO HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88661
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NAT GEO Mundo
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88662
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NAT GEO Pacific
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88663
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NAT GEO WEST
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88664
+#EXTINF:0 tvg-id="NatGeoWILD.us" group-title="Channels",US: NAT GEO Wild HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88665
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA 01
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88666
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA 02
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88667
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Brooklyn Nets
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88668
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Charlotte Hornets
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88669
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Chicago Bulls
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88670
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Cleveland Cavaliers
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88671
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Dallas Mavericks
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88672
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Denver Nuggets
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88673
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Golden State Warriors
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88674
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88675
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Houston Rockets
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88676
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Indiana Pacers
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88677
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Los Angeles Clippers
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88678
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Los Angeles Lakers
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88679
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Memphis Grizzlies
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88680
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Miami Heat
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88681
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Milwaukee Bucks
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88682
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Minnesota Timberwolves
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88683
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Network
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88684
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA New Orleans Pelicans
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88685
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA New York Knicks
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88686
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Oklahoma City Thunder
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88687
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Orlando Magic
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88688
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Philadelphia
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88689
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Philadelphia 76ers
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88690
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Phoenix Suns
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88691
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Portland Trail Blazers
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88692
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Sacramento Kings
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88693
+#EXTINF:0 tvg-id="A-EHD.us" group-title="Channels",US: A&E FHD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88694
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC (West) HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88695
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC 2 HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88696
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC 6 (Columbus)
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88697
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC 7 (Los Angeles) HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88698
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC 8 (Dallas) HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88699
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Action News
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88700
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC ATLANTA HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88701
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC BALTIMORE HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88702
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC BOSTON HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88703
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Charlotte
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88704
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC CHICAGO HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88705
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Cleveland
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88706
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Connecticut
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88707
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Dallas
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88708
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC DALLAS TX WFAA
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88709
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC DENVER CO KMGH
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88710
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC DENVER HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88711
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Detroit
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88712
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC durham
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88713
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC EAST
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88714
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC FAMILY/SPARK
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88715
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Fresno
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88716
+#EXTINF:0 tvg-id="ABCFamilyChannel.us" group-title="Channels",US: ABC HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88717
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC HOUSTON HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88718
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Indianapolis
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88719
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC KANSAS CITY HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88720
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Los Angeles
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88721
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC LOS ANGELES CA KABC
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88722
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC MIAMI HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88723
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Milwaukee
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88724
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Nashville
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88725
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC NEW YORK HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88726
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC NEW YORK WABC
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88727
+#EXTINF:0 tvg-id="WABCNewYorkABCEast.us" group-title="Channels",US: ABC News HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88728
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Orlando
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88729
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC ORLANDO HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88730
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Philadelphia
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88731
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC PHOENIX HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88732
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC PITTSBURGH HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88733
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Portland
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88734
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC SACRAMENTO HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88735
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Saint Paul
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88736
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Salt lake city
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88737
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC San Antonio
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88738
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC San Diego
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88739
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC San Francisco
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88740
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Seattle
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88741
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC St Louis
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88742
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Tampa Bay
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88743
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Washington
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88744
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ACC Network HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88745
+#EXTINF:0 tvg-id="ActionMaxHDEast.us" group-title="Channels",US: ACTION MAX FHD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88746
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Adult Swim
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88747
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: AFN Prime Pacific
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88748
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: AFN Sport 2
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88749
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: AHC
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88750
+#EXTINF:0 tvg-id="AMC.us" group-title="Channels",US: AMC HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88751
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: American Hero Channel HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88752
+#EXTINF:0 tvg-id="AmericanHeroes.us" group-title="Channels",US: AMERICAN HEROES
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88753
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ANIMAL PLANET EAST
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88754
+#EXTINF:0 tvg-id="AnimalPlanetHD.us" group-title="Channels",US: ANIMAL PLANET HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88755
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ANIMAL PLANET Pacific
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88756
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ANIMAL PLANET WEST
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88757
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Antenna TV
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88758
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: ASPIRE
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88759
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Atlanta Channel
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88760
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: AWE Channel
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88761
+#EXTINF:0 tvg-id="AXSTV.us" group-title="Channels",US: AXS TV
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88762
+#EXTINF:0 tvg-id="BabyFirst.us" group-title="Channels",US: BABY FIRST
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88763
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Baby TV HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88764
+#EXTINF:0 tvg-id="BBCAmericaHD.us" group-title="Channels",US: BBC America HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88765
+#EXTINF:0 tvg-id="BBCWorldNewsHD.us" group-title="Channels",US: BBC WORLD NEWS HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88766
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: beIN Sports 1
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88767
+#EXTINF:0 tvg-id="beINSPORTSHD.us" group-title="Channels",US: beIN Sports HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88768
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: beIN Sports USA
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88769
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BET EAST
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88770
+#EXTINF:0 tvg-id="BET.us" group-title="Channels",US: BET FHD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88771
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BET HER HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88772
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BET JAMS
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88773
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BET SOUL
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88774
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Better Life TV
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88775
+#EXTINF:0 tvg-id="BTNHD.us" group-title="Channels",US: BIG TEN NETWORK HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88776
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bigten 2
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88777
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bigten 3
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88778
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bigten 4
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88779
+#EXTINF:0 tvg-id="BloombergTVHD.us" group-title="Channels",US: Bloomberg HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88780
+#EXTINF:0 tvg-id="Boomerang.us" group-title="Channels",US: Boomerang HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88781
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bounce TV
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88782
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BRAVO EAST
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88783
+#EXTINF:0 tvg-id="BravoHD.us" group-title="Channels",US: Bravo HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88784
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BRAVO WEST
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88785
+#EXTINF:0 tvg-id="BTNHD.us" group-title="Channels",US: BTN HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88786
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BTN Sports
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88787
+#EXTINF:0 tvg-id="BUZZTV.us" group-title="Channels",US: BUZZR TV
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88788
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: BYU Sports
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88789
+#EXTINF:0 tvg-id="CSPAN.us" group-title="Channels",US: C-SPAN 1 HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88790
+#EXTINF:0 tvg-id="CSPAN2.us" group-title="Channels",US: C-SPAN 2 HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88791
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: C-SPAN 3 HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88792
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CALIFORNIA MUSIC
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88793
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CAPITAL TV
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88794
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CARTOON NETWORK (East) HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88795
+#EXTINF:0 tvg-id="CartoonNetworkHD.us" group-title="Channels",US: Cartoon Network HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88796
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: Cartoon Network Pacific
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88797
+#EXTINF:0 tvg-id="CartoonNetworkWest.us" group-title="Channels",US: CARTOON NETWORK WEST
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88798
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS 2 (New York) HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88799
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS 2 HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88800
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS 2 WBM (Chicago) HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88801
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Atlanta
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88802
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS BALTIMORE HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88803
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS BOSTON HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88804
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS CHARLOTTE HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88805
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA San Antonio Spurs
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88806
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS CHICAGO HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88807
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Cleveland
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88808
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS CLEVELAND HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88809
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS COLUMBUS HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88810
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS DALLAS HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88811
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS DALLAS TX KTVT
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88812
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS DENVER CO KCNC
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88813
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS DENVER HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88814
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS DETROIT HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88815
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS GREENSBORO HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88816
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS HARTFORD HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88817
+#EXTINF:0 tvg-id="WCBSNewYorkCBSEast.us" group-title="Channels",US: CBS HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88818
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS HOUSTON HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88819
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Jacksonville
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88820
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS KANSAS CITY HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88821
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Los Angeles
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88822
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS LOS ANGELES CA KCBS
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88823
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS MIAMI HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88824
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Milwaukee
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88825
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS MINNEAPOLIS HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88826
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Nashville
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88827
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS New Orleans
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88828
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS NEW YORK HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88829
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS NEW YORK NY WCBS
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88830
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS NEWS
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88831
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Orlando
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88832
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS ORLANDO HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88833
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS PHILADELPHIA HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88834
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Phoenix
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88835
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Pittsburgh
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88836
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS POP
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88837
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS SACRAMENTO HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88838
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS SAN ANTONIO HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88839
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS San Diego
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88840
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS SAN FRANCISCO HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88841
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Seattle
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88842
+#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="Channels",US: CBS Sports
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88843
+#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="Channels",US: CBS Sports HQ
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88844
+#EXTINF:0 tvg-id="CBSSportsNetworkHD.us" group-title="Channels",US: CBS SPORTS NETWORK HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88845
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS ST LOUIS
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88846
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA Toronto Raptors
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88847
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS TAMPAS HD
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88848
+#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Washington
+http://mondial.cybergroup.top:8080/rldwy8pqMM/RDchwBgCL5/88849
+#EXTINF:0 tvg-id="WCBSNewYorkCBSEast.us" group-title="Channels",US: CBSN HD
+
+
