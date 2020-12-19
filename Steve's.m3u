@@ -1,208 +1,231 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORT MAIN EVENT
-http://p4.giffy.be:8080/live/coke123/coke123/21743.ts
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",SKY SPORTS CRICKET
-http://p4.giffy.be:8080/live/coke123/coke123/21742.ts
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Channels",SKY SPORTS ACTION
-http://p4.giffy.be:8080/live/coke123/coke123/21741.ts
-#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Channels",SKY SPORTS GOLF
-http://p4.giffy.be:8080/live/coke123/coke123/21740.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORT SKY PREMIER LEAGUE
-http://p4.giffy.be:8080/live/coke123/coke123/21739.ts
-#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="Channels",SKY SPORT F1 HD
-http://p4.giffy.be:8080/live/coke123/coke123/21738.ts
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",SKY SPORT NEWS
-http://p4.giffy.be:8080/live/coke123/coke123/21732.ts
-#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Channels",SKY SPORTS MIX
-http://p4.giffy.be:8080/live/coke123/coke123/21728.ts
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",SKY SPORTS NEWS HD
-http://p4.giffy.be:8080/live/coke123/coke123/21737.ts
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",SKY SPORTS HD ARENA
-http://p4.giffy.be:8080/live/coke123/coke123/27769.ts
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",SKY SPORT 1 HD
-http://p4.giffy.be:8080/live/coke123/coke123/30065.ts
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",SKY SPORT 2 HD
-http://p4.giffy.be:8080/live/coke123/coke123/30066.ts
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",SKY SPORT NEWS.
-http://p4.giffy.be:8080/live/coke123/coke123/30075.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY FOOTBALL
-http://p4.giffy.be:8080/live/coke123/coke123/28297.ts
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",BT SPORTS 1 HD
-http://p4.giffy.be:8080/live/coke123/coke123/21736.ts
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",BT SPORTS 2 HD
-http://p4.giffy.be:8080/live/coke123/coke123/21735.ts
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",BT SPORTS 3 HD
-http://p4.giffy.be:8080/live/coke123/coke123/21734.ts
-#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",BT SPORT ESPN
-http://p4.giffy.be:8080/live/coke123/coke123/21731.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORT MOSAIC
-http://p4.giffy.be:8080/live/coke123/coke123/21729.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORT EXTRA
-http://p4.giffy.be:8080/live/coke123/coke123/21730.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | 4 SEVEN
-http://p4.giffy.be:8080/live/coke123/coke123/30513.ts
-#EXTINF:0 tvg-id="5star.uk" group-title="Channels",UK | 5 STAR
-http://p4.giffy.be:8080/live/coke123/coke123/30512.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | 5 USA
-http://p4.giffy.be:8080/live/coke123/coke123/30514.ts
-#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Channels",UK | ANIMAL PLANET
-http://p4.giffy.be:8080/live/coke123/coke123/30530.ts
-#EXTINF:0 tvg-id="BBCAlba.uk" group-title="Channels",UK | BBC ALBA
-http://p4.giffy.be:8080/live/coke123/coke123/30543.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | BBC ONE SCOTLAND
-http://p4.giffy.be:8080/live/coke123/coke123/30547.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | BBC ONE WALES
-http://p4.giffy.be:8080/live/coke123/coke123/30548.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | BBC PARLIEMNT
-http://p4.giffy.be:8080/live/coke123/coke123/30542.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | BBC TWO NORTHERN IRELAND
-http://p4.giffy.be:8080/live/coke123/coke123/30544.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | BBC TWO SCOTLAND
-http://p4.giffy.be:8080/live/coke123/coke123/30545.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | BBC TWO WALES
-http://p4.giffy.be:8080/live/coke123/coke123/30546.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | BBC1
-http://p4.giffy.be:8080/live/coke123/coke123/30549.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | BBC2
-http://p4.giffy.be:8080/live/coke123/coke123/30550.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | BBC3
-http://p4.giffy.be:8080/live/coke123/coke123/30551.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | BBC4
-http://p4.giffy.be:8080/live/coke123/coke123/30552.ts
-#EXTINF:0 tvg-id="CBSAction.uk" group-title="Channels",UK | CBS ACTION
-http://p4.giffy.be:8080/live/coke123/coke123/30526.ts
-#EXTINF:0 tvg-id="CBSDrama.uk" group-title="Channels",UK | CBS DRAMA
-http://p4.giffy.be:8080/live/coke123/coke123/30525.ts
-#EXTINF:0 tvg-id="CBSReality.uk" group-title="Channels",UK | CBS REALITY
-http://p4.giffy.be:8080/live/coke123/coke123/30524.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | CHANNEL 14
-http://p4.giffy.be:8080/live/coke123/coke123/30554.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | CRIME INVESTIGATION
-http://p4.giffy.be:8080/live/coke123/coke123/30504.ts
-#EXTINF:0 tvg-id="Dave.uk" group-title="Channels",UK | DAVE
-http://p4.giffy.be:8080/live/coke123/coke123/30511.ts
-#EXTINF:0 tvg-id="Dave.uk" group-title="Channels",UK | DAVE HD
-http://p4.giffy.be:8080/live/coke123/coke123/30560.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | DISCOVERY CH
-http://p4.giffy.be:8080/live/coke123/coke123/30539.ts
-#EXTINF:0 tvg-id="DiscoveryHistory.uk" group-title="Channels",UK | DISCOVERY HISTORY
-http://p4.giffy.be:8080/live/coke123/coke123/30538.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | DISCOVERY HOME & HEALTH
-http://p4.giffy.be:8080/live/coke123/coke123/30537.ts
-#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Channels",UK | DISCOVERY SCIENCE
-http://p4.giffy.be:8080/live/coke123/coke123/30536.ts
-#EXTINF:0 tvg-id="DiscoveryShed.uk" group-title="Channels",UK | DISCOVERY SHED
-http://p4.giffy.be:8080/live/coke123/coke123/30535.ts
-#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",UK | DISCOVERY TURBO
-http://p4.giffy.be:8080/live/coke123/coke123/30534.ts
-#EXTINF:0 tvg-id="E4.uk" group-title="Channels",UK | E4
-http://p4.giffy.be:8080/live/coke123/coke123/30522.ts
-#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="Channels",UK | FOOD NETWORK
-http://p4.giffy.be:8080/live/coke123/coke123/30521.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | FOX VOD
-http://p4.giffy.be:8080/live/coke123/coke123/30520.ts
-#EXTINF:0 tvg-id="History.uk" group-title="Channels",UK | HISTORY
-http://p4.giffy.be:8080/live/coke123/coke123/30528.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | HISTORY 1
-http://p4.giffy.be:8080/live/coke123/coke123/30523.ts
-#EXTINF:0 tvg-id="Home.uk" group-title="Channels",UK | HOME
-http://p4.giffy.be:8080/live/coke123/coke123/30527.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | INVESTIGATION DISCOVERY
-http://p4.giffy.be:8080/live/coke123/coke123/30533.ts
-#EXTINF:0 tvg-id="ITVBe.uk" group-title="Channels",UK | ITV BE
-http://p4.giffy.be:8080/live/coke123/coke123/30519.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | ITV ENCORE
-http://p4.giffy.be:8080/live/coke123/coke123/30555.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | ITV LONDON
-http://p4.giffy.be:8080/live/coke123/coke123/30518.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | ITV1
-http://p4.giffy.be:8080/live/coke123/coke123/30556.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | ITV2
-http://p4.giffy.be:8080/live/coke123/coke123/30557.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | ITV3
-http://p4.giffy.be:8080/live/coke123/coke123/30558.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | ITV4
-http://p4.giffy.be:8080/live/coke123/coke123/30559.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | KIX ENG
-http://p4.giffy.be:8080/live/coke123/coke123/30505.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | LIFETIME
-http://p4.giffy.be:8080/live/coke123/coke123/30506.ts
-#EXTINF:0 tvg-id="MTVDance.uk" group-title="Channels",UK | MTV DANCE
-http://p4.giffy.be:8080/live/coke123/coke123/30563.ts
-#EXTINF:0 tvg-id="MTVHits.uk" group-title="Channels",UK | MTV HITS
-http://p4.giffy.be:8080/live/coke123/coke123/30562.ts
-#EXTINF:0 tvg-id="MTVMusic.uk" group-title="Channels",UK | MTV MUSIC
-http://p4.giffy.be:8080/live/coke123/coke123/30561.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | NAT GEO
-http://p4.giffy.be:8080/live/coke123/coke123/30531.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | NAT GEO WILD
-http://p4.giffy.be:8080/live/coke123/coke123/30532.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | NATGEO
-http://p4.giffy.be:8080/live/coke123/coke123/30540.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | PICK
-http://p4.giffy.be:8080/live/coke123/coke123/30517.ts
-#EXTINF:0 tvg-id="Quest.uk" group-title="Channels",UK | QUEST
-http://p4.giffy.be:8080/live/coke123/coke123/30507.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | RTE
-http://p4.giffy.be:8080/live/coke123/coke123/30516.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | S4C
-http://p4.giffy.be:8080/live/coke123/coke123/30541.ts
-#EXTINF:0 tvg-id="SkyArts1.uk" group-title="Channels",UK | SKY ARTS 1
-http://p4.giffy.be:8080/live/coke123/coke123/30503.ts
-#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="Channels",UK | SKY ATLANTIC
-http://p4.giffy.be:8080/live/coke123/coke123/30502.ts
-#EXTINF:0 tvg-id="SkyLiving.uk" group-title="Channels",UK | SKY LIVING
-http://p4.giffy.be:8080/live/coke123/coke123/30489.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | SKY MOVIES ACTION & ADVENTURE
-http://p4.giffy.be:8080/live/coke123/coke123/30501.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | SKY MOVIES COMEDY
-http://p4.giffy.be:8080/live/coke123/coke123/30500.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | SKY MOVIES CRIMES & THRILLER
-http://p4.giffy.be:8080/live/coke123/coke123/30499.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | SKY MOVIES DISNEY
-http://p4.giffy.be:8080/live/coke123/coke123/30498.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | SKY MOVIES DRAMA
-http://p4.giffy.be:8080/live/coke123/coke123/30497.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | SKY MOVIES FAMILY
-http://p4.giffy.be:8080/live/coke123/coke123/30496.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | SKY MOVIES MODERN GREATS
-http://p4.giffy.be:8080/live/coke123/coke123/30495.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | SKY MOVIES PREMIERE
-http://p4.giffy.be:8080/live/coke123/coke123/30494.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | SKY MOVIES SCI-FI
-http://p4.giffy.be:8080/live/coke123/coke123/30493.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | SKY MOVIES SELECT HD
-http://p4.giffy.be:8080/live/coke123/coke123/30492.ts
-#EXTINF:0 tvg-id="SkyShowcase.uk" group-title="Channels",UK | SKY MOVIES SHOWCASE
-http://p4.giffy.be:8080/live/coke123/coke123/30491.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | SKY MOVIES THRILLER
-http://p4.giffy.be:8080/live/coke123/coke123/30490.ts
-#EXTINF:0 tvg-id="TLC.uk" group-title="Channels",UK | TLC
-http://p4.giffy.be:8080/live/coke123/coke123/30510.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | TRAVEL
-http://p4.giffy.be:8080/live/coke123/coke123/30529.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | TRAVEL CH HD
-http://p4.giffy.be:8080/live/coke123/coke123/30553.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | TV5
-http://p4.giffy.be:8080/live/coke123/coke123/30508.ts
-#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",UK |  UNIVERSAL
-http://p4.giffy.be:8080/live/coke123/coke123/30564.ts
-#EXTINF:0 tvg-id="Viva.uk" group-title="Channels",UK | VIVA
-http://p4.giffy.be:8080/live/coke123/coke123/30509.ts
-#EXTINF:0 tvg-id="RacingUK.uk" group-title="Channels",UK: Racing UK
-http://87.120.36.166:80/live/test2017/test2017/8933.ts
-#EXTINF:0 tvg-id="RTE1.ie" group-title="Channels",UK: RTE ONE
-http://87.120.36.166:80/live/test2017/test2017/8934.ts
-#EXTINF:0 tvg-id="RTE2.ie" group-title="Channels",UK: RTE TWO
-http://87.120.36.166:80/live/test2017/test2017/8935.ts
-#EXTINF:0 tvg-id="5star.uk" group-title="Channels",UK: 5 Star
-http://87.120.36.166:80/live/test2017/test2017/3718.ts
-#EXTINF:0 tvg-id="FiveUSA.uk" group-title="Channels",UK: 5 USA
-http://87.120.36.166:80/live/test2017/test2017/3719.ts
-#EXTINF:0 tvg-id="Alibi.uk" group-title="Channels",UK: Alibi
-http://87.120.36.166:80/live/test2017/test2017/3746.ts
-#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Channels",UK: Animal Planet
-http://87.120.36.166:80/live/test2017/test2017/1800.ts
-#EXTINF:0 tvg-id="BabyTV.uk" group-title="Channels",UK: Baby TV
-http://87.120.36.166:80/live/test2017/test2017/3735.ts
-#EXTINF:0 tvg-id="BBCNews.nws" group-title="Channels",UK: BBC News
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="SKY UK",BBC News
+http://vvn.neoredi.com/iptv/ch1860?code=170140343781561&key=19580
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="SKY UK",BBC1
+http://vvn.neoredi.com/iptv/ch1800?code=170140343781561&key=13090
+#EXTINF:0 tvg-id="BBC2.uk" group-title="SKY UK",BBC2
+http://vvn.neoredi.com/iptv/ch1801?code=170140343781561&key=42066
+#EXTINF:0 tvg-id="CBBC.uk" group-title="SKY UK",CBBC
+http://vvn.neoredi.com/iptv/ch1802?code=170140343781561&key=60348
+#EXTINF:0 tvg-id="BBC4.uk" group-title="SKY UK",BBC4
+http://vvn.neoredi.com/iptv/ch1803?code=170140343781561&key=60727
+#EXTINF:0 tvg-id="CNN.nws" group-title="SKY UK",CNN UK
+http://vvn.neoredi.com/iptv/ch1898?code=170140343781561&key=53768
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="SKY UK",ITV 1 UK
+http://vvn.neoredi.com/iptv/ch1805?code=170140343781561&key=31215
+#EXTINF:0 tvg-id="ITV2.uk" group-title="SKY UK",ITV 2 UK
+http://vvn.neoredi.com/iptv/ch1806?code=170140343781561&key=17496
+#EXTINF:0 tvg-id="ITV3.uk" group-title="SKY UK",Itv 3 UK
+http://vvn.neoredi.com/iptv/ch1946?code=170140343781561&key=34361
+#EXTINF:0 tvg-id="ITV4.uk" group-title="SKY UK",ITV 4 UK
+http://vvn.neoredi.com/iptv/ch1808?code=170140343781561&key=53499
+#EXTINF:0 tvg-id="ITVBe.uk" group-title="SKY UK",ITV BE
+http://vvn.neoredi.com/iptv/ch1804?code=170140343781561&key=54487
+#EXTINF:0 tvg-id="CITV.uk" group-title="SKY UK",C ITV
+http://vvn.neoredi.com/iptv/ch1807?code=170140343781561&key=23317
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",STV UK HD
+http://vvn.neoredi.com/iptv/ch1816?code=170140343781561&key=36205
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",UTV UK HD
+http://vvn.neoredi.com/iptv/ch1892?code=170140343781561&key=21322
+#EXTINF:0 tvg-id="Channel5.uk" group-title="SKY UK",Channel 5 UK
+http://vvn.neoredi.com/iptv/ch911?code=170140343781561&key=49664
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",5 USA UK
+http://vvn.neoredi.com/iptv/ch1938?code=170140343781561&key=15950
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",5 Stars UK
+http://vvn.neoredi.com/iptv/ch1894?code=170140343781561&key=40584
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",My 5 UK
+http://vvn.neoredi.com/iptv/ch1896?code=170140343781561&key=56979
+#EXTINF:0 tvg-id="Channel4.uk" group-title="SKY UK",Channel 4 UK
+http://vvn.neoredi.com/iptv/ch910?code=170140343781561&key=27414
+#EXTINF:0 tvg-id="Film4.uk" group-title="SKY UK",Film 4 UK
+http://vvn.neoredi.com/iptv/ch1891?code=170140343781561&key=47628
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",4 Music UK
+http://vvn.neoredi.com/iptv/ch1934?code=170140343781561&key=24807
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",E-4 UK
+http://vvn.neoredi.com/iptv/ch1813?code=170140343781561&key=29102
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",4 Seven UK
+http://vvn.neoredi.com/iptv/ch1812?code=170140343781561&key=21211
+#EXTINF:0 tvg-id="More4.uk" group-title="SKY UK",More 4 UK
+http://vvn.neoredi.com/iptv/ch1940?code=170140343781561&key=61990
+#EXTINF:0 tvg-id="CBSReality.uk" group-title="SKY UK",CBS Reality
+http://vvn.neoredi.com/iptv/ch1835?code=170140343781561&key=41771
+#EXTINF:0 tvg-id="CBSAction.uk" group-title="SKY UK",CBS Action
+http://vvn.neoredi.com/iptv/ch1836?code=170140343781561&key=29953
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="SKY UK",CBS Drama
+http://vvn.neoredi.com/iptv/ch1837?code=170140343781561&key=34674
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="SKY UK",Sky News UK
+http://vvn.neoredi.com/iptv/ch1935?code=170140343781561&key=63087
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="SKY UK",SKY Sport news UK
+http://vvn.neoredi.com/iptv/ch1053?code=170140343781561&key=60744
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",SKY Sport Football UK
+http://vvn.neoredi.com/iptv/ch922?code=170140343781561&key=51453
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Sky Sport Premium UK
+http://vvn.neoredi.com/iptv/ch937?code=170140343781561&key=45814
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",SKY Sport Golf UK
+http://vvn.neoredi.com/iptv/ch914?code=170140343781561&key=24232
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",SKY Sport Action UK
+http://vvn.neoredi.com/iptv/ch915?code=170140343781561&key=17364
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",SKY Sport Criket UK
+http://vvn.neoredi.com/iptv/ch916?code=170140343781561&key=53298
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Sport Mix UK
+http://vvn.neoredi.com/iptv/ch931?code=170140343781561&key=39132
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="SKY UK",BT Sport 1
+http://vvn.neoredi.com/iptv/ch1828?code=170140343781561&key=53230
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="SKY UK",BT Sport 2
+http://vvn.neoredi.com/iptv/ch1829?code=170140343781561&key=29406
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="SKY UK",BT Sport 3
+http://vvn.neoredi.com/iptv/ch1830?code=170140343781561&key=42717
+#EXTINF:0 tvg-id="BTSportEur.uk" group-title="SKY UK",BT Sport Europe
+http://vvn.neoredi.com/iptv/ch1831?code=170140343781561&key=28010
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Setana Sport 1
+http://vvn.neoredi.com/iptv/ch1832?code=170140343781561&key=21044
+#EXTINF:0 tvg-id="ESPN.uk" group-title="SKY UK",ESPN
+http://vvn.neoredi.com/iptv/ch1833?code=170140343781561&key=27293
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Premiere Sport UK
+http://vvn.neoredi.com/iptv/ch1834?code=170140343781561&key=43165
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="SKY UK",Sky Sport F1 UK
+http://vvn.neoredi.com/iptv/ch930?code=170140343781561&key=38653
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="SKY UK",Eurosport 1 UK
+http://vvn.neoredi.com/iptv/ch929?code=170140343781561&key=30254
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="SKY UK",Eurosport 2
+http://vvn.neoredi.com/iptv/ch918?code=170140343781561&key=45738
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Front Runner UK
+http://vvn.neoredi.com/iptv/ch1858?code=170140343781561&key=57685
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Front runner 2 UK
+http://vvn.neoredi.com/iptv/ch1944?code=170140343781561&key=53537
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Free Sport UK
+http://vvn.neoredi.com/iptv/ch1852?code=170140343781561&key=57956
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Manchester Ud. TV
+http://vvn.neoredi.com/iptv/ch927?code=170140343781561&key=42172
+#EXTINF:0 tvg-id="SonyMovies.uk" group-title="SKY UK",Sony Movies UK
+http://vvn.neoredi.com/iptv/ch1700?code=170140343781561&key=63312
+#EXTINF:0 tvg-id="Sky1.uk" group-title="SKY UK",SKY One UK
+http://vvn.neoredi.com/iptv/ch1809?code=170140343781561&key=36416
+#EXTINF:0 tvg-id="Sky2.uk" group-title="SKY UK",SKY two UK
+http://vvn.neoredi.com/iptv/ch1810?code=170140343781561&key=27818
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Sky Select UK
+http://vvn.neoredi.com/iptv/ch1055?code=170140343781561&key=52331
+#EXTINF:0 tvg-id="SkyCinemaThriller.uk" group-title="SKY UK",Sky Thriller UK
+http://vvn.neoredi.com/iptv/ch1054?code=170140343781561&key=56259
+#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="SKY UK",Sky Family UK
+http://vvn.neoredi.com/iptv/ch924?code=170140343781561&key=37315
+#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="SKY UK",Sky Comedy UK
+http://vvn.neoredi.com/iptv/ch919?code=170140343781561&key=43685
+#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="SKY UK",Sky Action UK
+http://vvn.neoredi.com/iptv/ch917?code=170140343781561&key=34209
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Sky Select UK
+http://vvn.neoredi.com/iptv/ch909?code=170140343781561&key=48222
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Sky Horror UK
+http://vvn.neoredi.com/iptv/ch908?code=170140343781561&key=27272
+#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="SKY UK",Sky Premiere UK
+http://vvn.neoredi.com/iptv/ch907?code=170140343781561&key=46512
+#EXTINF:0 tvg-id="SkyLiving.uk" group-title="SKY UK",Sky Living UK
+http://vvn.neoredi.com/iptv/ch925?code=170140343781561&key=44088
+#EXTINF:0 tvg-id="FX.uk" group-title="SKY UK",Fox UK
+http://vvn.neoredi.com/iptv/ch905?code=170140343781561&key=57516
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Sky Animal UK
+http://vvn.neoredi.com/iptv/ch906?code=170140343781561&key=50100
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="SKY UK",Discovery Science UK
+http://vvn.neoredi.com/iptv/ch923?code=170140343781561&key=29134
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Discovery Showcase U
+http://vvn.neoredi.com/iptv/ch928?code=170140343781561&key=33892
+#EXTINF:0 tvg-id="DiscoveryHistory.uk" group-title="SKY UK",Discovery History UK
+http://vvn.neoredi.com/iptv/ch934?code=170140343781561&key=61416
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Discovery Ch. UK
+http://vvn.neoredi.com/iptv/ch1825?code=170140343781561&key=35220
+#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="SKY UK",Food Network UK
+http://vvn.neoredi.com/iptv/ch1819?code=170140343781561&key=18362
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="SKY UK",Disney Junior UK
+http://vvn.neoredi.com/iptv/ch936?code=170140343781561&key=25423
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Sky Disney UK
+http://vvn.neoredi.com/iptv/ch958?code=170140343781561&key=49846
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="SKY UK",Disney XD UK
+http://vvn.neoredi.com/iptv/ch1820?code=170140343781561&key=47391
+#EXTINF:0 tvg-id="NickJrPeppa.uk" group-title="SKY UK",Nick Jr. Too UK
+http://vvn.neoredi.com/iptv/ch912?code=170140343781561&key=62039
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="SKY UK",Baby Tv UK
+http://vvn.neoredi.com/iptv/ch913?code=170140343781561&key=62427
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="SKY UK",Nick Jr. UK
+http://vvn.neoredi.com/iptv/ch932?code=170140343781561&key=45969
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Pop Max UK
+http://vvn.neoredi.com/iptv/ch1817?code=170140343781561&key=41718
+#EXTINF:0 tvg-id="pop.uk" group-title="SKY UK",Pop UK
+http://vvn.neoredi.com/iptv/ch1936?code=170140343781561&key=52782
+#EXTINF:0 tvg-id="tinypop.uk" group-title="SKY UK",Tiny Pop UK
+http://vvn.neoredi.com/iptv/ch1893?code=170140343781561&key=25513
+#EXTINF:0 tvg-id="Euronews.nws" group-title="SKY UK",Euronews UK
+http://vvn.neoredi.com/iptv/ch1945?code=170140343781561&key=55226
+#EXTINF:0 tvg-id="CNBC.uk" group-title="SKY UK",CNBC UK
+http://vvn.neoredi.com/iptv/ch1826?code=170140343781561&key=31539
+#EXTINF:0 tvg-id="Dave.uk" group-title="SKY UK",Dave UK
+http://vvn.neoredi.com/iptv/ch1943?code=170140343781561&key=24353
+#EXTINF:0 tvg-id="Really.uk" group-title="SKY UK",Really UK
+http://vvn.neoredi.com/iptv/ch1942?code=170140343781561&key=20980
+#EXTINF:0 tvg-id="Drama.uk" group-title="SKY UK",DRAMA UK
+http://vvn.neoredi.com/iptv/ch1941?code=170140343781561&key=45158
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Keep it country UK
+http://vvn.neoredi.com/iptv/ch1939?code=170140343781561&key=55504
+#EXTINF:0 tvg-id="TrueMovies.uk" group-title="SKY UK",True Movies UK
+http://vvn.neoredi.com/iptv/ch1937?code=170140343781561&key=18645
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Bloomber UK
+http://vvn.neoredi.com/iptv/ch1900?code=170140343781561&key=32049
+#EXTINF:0 tvg-id="Quest.uk" group-title="SKY UK",Quest UK
+http://vvn.neoredi.com/iptv/ch1899?code=170140343781561&key=54093
+#EXTINF:0 tvg-id="CommunityChannel.uk" group-title="SKY UK",Community
+http://vvn.neoredi.com/iptv/ch1897?code=170140343781561&key=26413
+#EXTINF:0 tvg-id="Yesterday.uk" group-title="SKY UK",Yesterday UK
+http://vvn.neoredi.com/iptv/ch1895?code=170140343781561&key=52698
+#EXTINF:0 tvg-id="MyChannel.uk" group-title="SKY UK",My channel UK
+http://vvn.neoredi.com/iptv/ch1859?code=170140343781561&key=14133
+#EXTINF:0 tvg-id="Home.uk" group-title="SKY UK",Home UK
+http://vvn.neoredi.com/iptv/ch1857?code=170140343781561&key=34756
+#EXTINF:0 tvg-id="PickTV.uk" group-title="SKY UK",Pick TV UK
+http://vvn.neoredi.com/iptv/ch1856?code=170140343781561&key=61412
+#EXTINF:0 tvg-id="PBS.uk" group-title="SKY UK",PBS America UK
+http://vvn.neoredi.com/iptv/ch1855?code=170140343781561&key=24954
+#EXTINF:0 tvg-id="Viva.uk" group-title="SKY UK",VIVA UK
+http://vvn.neoredi.com/iptv/ch1854?code=170140343781561&key=33624
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Starz UK
+http://vvn.neoredi.com/iptv/ch1853?code=170140343781561&key=53685
+#EXTINF:0 tvg-id="TrueEntertainment.uk" group-title="SKY UK",True entertainment UK
+http://vvn.neoredi.com/iptv/ch1851?code=170140343781561&key=58914
+#EXTINF:0 tvg-id="Spike.uk" group-title="SKY UK",Spike UK
+http://vvn.neoredi.com/iptv/ch1850?code=170140343781561&key=25529
+#EXTINF:0 tvg-id="BLAZE.uk" group-title="SKY UK",Blaze UK
+http://vvn.neoredi.com/iptv/ch1849?code=170140343781561&key=45992
+#EXTINF:0 tvg-id="Flava.uk" group-title="SKY UK",Flava UK
+http://vvn.neoredi.com/iptv/ch1848?code=170140343781561&key=50375
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Your Tv UK
+http://vvn.neoredi.com/iptv/ch1818?code=170140343781561&key=35971
+#EXTINF:0 tvg-id="SonyCrimeChannel2.uk" group-title="SKY UK",True Crime UK
+http://vvn.neoredi.com/iptv/ch1815?code=170140343781561&key=28385
+#EXTINF:0 tvg-id="Showcase.uk" group-title="SKY UK",Showcase UK
+http://vvn.neoredi.com/iptv/ch1814?code=170140343781561&key=52419
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",TV-ONE UK
+http://vvn.neoredi.com/iptv/ch1811?code=170140343781561&key=11422
+#EXTINF:0 tvg-id="TLC.uk" group-title="SKY UK",TLC UK
+http://vvn.neoredi.com/iptv/ch956?code=170140343781561&key=30321
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Horse and Country UK
+http://vvn.neoredi.com/iptv/ch1822?code=170140343781561&key=19644
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Travel Ch. UK
+http://vvn.neoredi.com/iptv/ch1823?code=170140343781561&key=30455
+#EXTINF:0 tvg-id="TruTV.uk" group-title="SKY UK",Tru TV UK
+http://vvn.neoredi.com/iptv/ch1824?code=170140343781561&key=51492
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",S4cdigidol
+http://vvn.neoredi.com/iptv/ch1827?code=170140343781561&key=31242
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Horror Ch. UK
+http://vvn.neoredi.com/iptv/ch1839?code=170140343781561&key=11160
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",ABN UK
+http://vvn.neoredi.com/iptv/ch1840?code=170140343781561&key=44246
+#EXTINF:0 tvg-id="Channels24.uk" group-title="SKY UK",Channels 24
+http://vvn.neoredi.com/iptv/ch1841?code=170140343781561&key=51382
+#EXTINF:0 tvg-id="IrishTV.uk" group-title="SKY UK",Irish TV
+http://vvn.neoredi.com/iptv/ch1842?code=170140343781561&key=33850
+#EXTINF:0 tvg-id="NOWMusic.uk" group-title="SKY UK",Now Music
+http://vvn.neoredi.com/iptv/ch1843?code=170140343781561&key=12334
+#EXTINF:0 tvg-id="Movies4Men.uk" group-title="SKY UK",Movies4Men
+http://vvn.neoredi.com/iptv/ch1845?code=170140343781561&key=23109
+#EXTINF:0 tvg-id="ext" group-title="SKY UK",Setana UK
+http://vvn.neoredi.com/iptv/ch1846?code=170140343781561&key=11410
+#EXTINF:0 tvg-id="ChannelS.uk" group-title="SKY UK",Channel S
+http://vvn.neoredi.com/iptv/ch1847?code=170140343781561&key=57233
