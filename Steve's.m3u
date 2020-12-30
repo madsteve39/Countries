@@ -1,1091 +1,957 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rádio Roberto Carlos
-http://209.222.97.23:8080/live/margaret/123456/19042.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rádio Antena 1
-http://209.222.97.23:8080/live/margaret/123456/19043.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",5 Maceió / AL
-http://209.222.97.23:8080/live/margaret/123456/19044.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rádio Jovem Pan AM 620
-http://209.222.97.23:8080/live/margaret/123456/19045.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rádio Bola Gospel
-http://209.222.97.23:8080/live/margaret/123456/19046.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rádio Rip Rop
-http://209.222.97.23:8080/live/margaret/123456/19047.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rádio Reggae
-http://209.222.97.23:8080/live/margaret/123456/19048.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rádio Sertanejo Universitário
-http://209.222.97.23:8080/live/margaret/123456/19049.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rádio Transamerica FM
-http://209.222.97.23:8080/live/margaret/123456/19050.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rádio Forró
-http://209.222.97.23:8080/live/margaret/123456/19051.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rádio Funk
-http://209.222.97.23:8080/live/margaret/123456/19052.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rádio Anos 70
-http://209.222.97.23:8080/live/margaret/123456/19053.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rádio Românticas
-http://209.222.97.23:8080/live/margaret/123456/19054.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rádio Rap Nacional
-http://209.222.97.23:8080/live/margaret/123456/19055.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rádio Eletrônica
-http://209.222.97.23:8080/live/margaret/123456/19056.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rádio Gospel
-http://209.222.97.23:8080/live/margaret/123456/19057.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rádio Axé
-http://209.222.97.23:8080/live/margaret/123456/19058.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rádio MPB
-http://209.222.97.23:8080/live/margaret/123456/19059.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rádio Kids
-http://209.222.97.23:8080/live/margaret/123456/19060.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rádio Kiss
-http://209.222.97.23:8080/live/margaret/123456/19061.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rádio Viva o Samba
-http://209.222.97.23:8080/live/margaret/123456/19062.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rádio Fortaleza FM
-http://209.222.97.23:8080/live/margaret/123456/19063.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",9 – Fortaleza
-http://209.222.97.23:8080/live/margaret/123456/19064.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",A&E-SD
-http://209.222.97.23:8080/live/margaret/123456/19533.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",A&E-FHD
-http://209.222.97.23:8080/live/margaret/123456/19534.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",A&E-HD
-http://209.222.97.23:8080/live/margaret/123456/19536.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",AMC-SD
-http://209.222.97.23:8080/live/margaret/123456/19543.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",AMC-FHD
-http://209.222.97.23:8080/live/margaret/123456/19544.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",AMC-HD
-http://209.222.97.23:8080/live/margaret/123456/19545.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ANIMAL PLANET-SD
-http://209.222.97.23:8080/live/margaret/123456/19548.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ANIMAL PLANET-FHD
-http://209.222.97.23:8080/live/margaret/123456/19549.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ANIMAL PLANET-HD
-http://209.222.97.23:8080/live/margaret/123456/19550.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",APARECIDA
-http://209.222.97.23:8080/live/margaret/123456/19553.m3u8
-#EXTINF:0 tvg-id="Tvaparecida.br" group-title="Channels",APARECIDA HD
-http://209.222.97.23:8080/live/margaret/123456/19554.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ARTE 1-SD
-http://209.222.97.23:8080/live/margaret/123456/19555.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ARTE 1-HD
-http://209.222.97.23:8080/live/margaret/123456/19556.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ARTE1-FHD
-http://209.222.97.23:8080/live/margaret/123456/19559.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",AXN-SD
-http://209.222.97.23:8080/live/margaret/123456/19560.m3u8
-#EXTINF:0 tvg-id="axn.pt" group-title="Channels",AXN-FHD
-http://209.222.97.23:8080/live/margaret/123456/19561.m3u8
-#EXTINF:0 tvg-id="axn.pt" group-title="Channels",AXN-HD
-http://209.222.97.23:8080/live/margaret/123456/19563.m3u8
-#EXTINF:0 tvg-id="BabyTV.uk" group-title="Channels",BABY TV
-http://209.222.97.23:8080/live/margaret/123456/19566.m3u8
-#EXTINF:0 tvg-id="BabyTV.fr" group-title="Channels",BABY TV HD
-http://209.222.97.23:8080/live/margaret/123456/19568.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BAND CAMPINAS
-http://209.222.97.23:8080/live/margaret/123456/19569.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BAND CAMPINAS HD
-http://209.222.97.23:8080/live/margaret/123456/19570.m3u8
-#EXTINF:0 tvg-id="Bandhd.br" group-title="Channels",BAND FHD
-http://209.222.97.23:8080/live/margaret/123456/19571.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BAND FHD²
-http://209.222.97.23:8080/live/margaret/123456/19572.m3u8
-#EXTINF:0 tvg-id="Bandhd.br" group-title="Channels",BAND HD *
-http://209.222.97.23:8080/live/margaret/123456/19573.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BAND NEWS-SD
-http://209.222.97.23:8080/live/margaret/123456/19576.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BAND NEWS-HD
-http://209.222.97.23:8080/live/margaret/123456/19578.m3u8
-#EXTINF:0 tvg-id="Bandsports.br" group-title="Channels",BAND SPORTS
-http://209.222.97.23:8080/live/margaret/123456/19581.m3u8
-#EXTINF:0 tvg-id="Bandsports.br" group-title="Channels",BAND SPORTS HD
-http://209.222.97.23:8080/live/margaret/123456/19583.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BAND²
-http://209.222.97.23:8080/live/margaret/123456/19586.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BIS-SD
-http://209.222.97.23:8080/live/margaret/123456/19587.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BIS-FHD
-http://209.222.97.23:8080/live/margaret/123456/19588.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BIS- HD
-http://209.222.97.23:8080/live/margaret/123456/19590.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOA VONTADE HD
-http://209.222.97.23:8080/live/margaret/123456/19594.m3u8
-#EXTINF:0 tvg-id="Boomerang.uk" group-title="Channels",BOOMERANG
-http://209.222.97.23:8080/live/margaret/123456/19595.m3u8
-#EXTINF:0 tvg-id="Boomerang.uk" group-title="Channels",BOOMERANG FHD
-http://209.222.97.23:8080/live/margaret/123456/19596.m3u8
-#EXTINF:0 tvg-id="Boomerang.uk" group-title="Channels",BOOMERANG HD
-http://209.222.97.23:8080/live/margaret/123456/19597.m3u8
-#EXTINF:0 tvg-id="Canalbrasil.br" group-title="Channels",CANAL BRASIL
-http://209.222.97.23:8080/live/margaret/123456/19600.m3u8
-#EXTINF:0 tvg-id="Canalbrasilhd.br" group-title="Channels",CANAL BRASIL HD
-http://209.222.97.23:8080/live/margaret/123456/19602.m3u8
-#EXTINF:0 tvg-id="CanaldoBoi.br" group-title="Channels",CANAL DO BOI
-http://209.222.97.23:8080/live/margaret/123456/19605.m3u8
-#EXTINF:0 tvg-id="Futura.br" group-title="Channels",CANAL FUTURA
-http://209.222.97.23:8080/live/margaret/123456/19606.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL FUTURA HD
-http://209.222.97.23:8080/live/margaret/123456/19608.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL PROMESSAS FHD
-http://209.222.97.23:8080/live/margaret/123456/19610.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL SONY-SD
-http://209.222.97.23:8080/live/margaret/123456/19611.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL SONY-FHD
-http://209.222.97.23:8080/live/margaret/123456/19613.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL SONY-HD
-http://209.222.97.23:8080/live/margaret/123456/19614.m3u8
-#EXTINF:0 tvg-id="Cancaonova.br" group-title="Channels",CANÇÃO NOVA FHD
-http://209.222.97.23:8080/live/margaret/123456/19617.m3u8
-#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Channels",CARTOON NETWORK
-http://209.222.97.23:8080/live/margaret/123456/19618.m3u8
-#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Channels",CARTOON NETWORK FHD
-http://209.222.97.23:8080/live/margaret/123456/19619.m3u8
-#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Channels",CARTOON NETWORK HD
-http://209.222.97.23:8080/live/margaret/123456/19621.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMAX-SD
-http://209.222.97.23:8080/live/margaret/123456/19634.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMAX-FHD
-http://209.222.97.23:8080/live/margaret/123456/19635.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMAX-HD
-http://209.222.97.23:8080/live/margaret/123456/19637.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CNN BRASIL-FHD
-http://209.222.97.23:8080/live/margaret/123456/19639.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CNN BRASIL-HD
-http://209.222.97.23:8080/live/margaret/123456/19640.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CNN ESPANHOL-HD
-http://209.222.97.23:8080/live/margaret/123456/19641.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CNN INTERNACIONAL-HD
-http://209.222.97.23:8080/live/margaret/123456/19642.m3u8
-#EXTINF:0 tvg-id="Combate.br" group-title="Channels",COMBATE
-http://209.222.97.23:8080/live/margaret/123456/19643.m3u8
-#EXTINF:0 tvg-id="Combate.br" group-title="Channels",COMBATE FHD
-http://209.222.97.23:8080/live/margaret/123456/19645.m3u8
-#EXTINF:0 tvg-id="Combate.br" group-title="Channels",COMBATE HD
-http://209.222.97.23:8080/live/margaret/123456/19646.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMBATE HD DUAL
-http://209.222.97.23:8080/live/margaret/123456/19648.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CENTRAL-SD
-http://209.222.97.23:8080/live/margaret/123456/19649.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CENTRAL-FHD
-http://209.222.97.23:8080/live/margaret/123456/19650.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CENTRAL-HD
-http://209.222.97.23:8080/live/margaret/123456/19651.m3u8
-#EXTINF:0 tvg-id="Culturasp.br" group-title="Channels",CULTURA
-http://209.222.97.23:8080/live/margaret/123456/19666.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CULTURA HD
-http://209.222.97.23:8080/live/margaret/123456/19668.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CURTA!
-http://209.222.97.23:8080/live/margaret/123456/19670.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CURTA! HD
-http://209.222.97.23:8080/live/margaret/123456/19672.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN-FHD
-http://209.222.97.23:8080/live/margaret/123456/19673.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN-HD
-http://209.222.97.23:8080/live/margaret/123456/19674.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY CHANNEL-SD
-http://209.222.97.23:8080/live/margaret/123456/19675.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY CHANNEL-HD
-http://209.222.97.23:8080/live/margaret/123456/19679.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY CHANNEL-FHD
-http://209.222.97.23:8080/live/margaret/123456/19680.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HGTV - SD
-http://209.222.97.23:8080/live/margaret/123456/19681.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HGTV - FHD
-http://209.222.97.23:8080/live/margaret/123456/19682.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY H&H-SD
-http://209.222.97.23:8080/live/margaret/123456/19683.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY H&H-FHD
-http://209.222.97.23:8080/live/margaret/123456/19685.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY H&H-HD
-http://209.222.97.23:8080/live/margaret/123456/19687.m3u8
-#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Channels",DISCOVERY KIDS
-http://209.222.97.23:8080/live/margaret/123456/19688.m3u8
-#EXTINF:0 tvg-id="DiscoveryKidsHD.pe" group-title="Channels",DISCOVERY KIDS FHD
-http://209.222.97.23:8080/live/margaret/123456/19690.m3u8
-#EXTINF:0 tvg-id="DiscoveryKidsHD.pe" group-title="Channels",DISCOVERY KIDS HD
-http://209.222.97.23:8080/live/margaret/123456/19691.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY SCIENCE-SD
-http://209.222.97.23:8080/live/margaret/123456/19693.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY SCIENCE-HD
-http://209.222.97.23:8080/live/margaret/123456/19695.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY SCIENCE-FHD
-http://209.222.97.23:8080/live/margaret/123456/19696.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY THEATER-SD
-http://209.222.97.23:8080/live/margaret/123456/19698.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY THEATER-HD
-http://209.222.97.23:8080/live/margaret/123456/19700.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY TURBO-SD
-http://209.222.97.23:8080/live/margaret/123456/19703.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY TURBO-HD
-http://209.222.97.23:8080/live/margaret/123456/19705.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY TURBO-FHD
-http://209.222.97.23:8080/live/margaret/123456/19706.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY WORLD-SD
-http://209.222.97.23:8080/live/margaret/123456/19707.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY WORLD-HD
-http://209.222.97.23:8080/live/margaret/123456/19709.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY-H&H-FDH
-http://209.222.97.23:8080/live/margaret/123456/19711.m3u8
-#EXTINF:0 tvg-id="Disney.uk" group-title="Channels",DISNEY CHANNEL HD
-http://209.222.97.23:8080/live/margaret/123456/19715.m3u8
-#EXTINF:0 tvg-id="Disney.uk" group-title="Channels",DISNEY CHANNEL HD *
-http://209.222.97.23:8080/live/margaret/123456/19717.m3u8
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",DISNEY JUNIOR
-http://209.222.97.23:8080/live/margaret/123456/19719.m3u8
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",DISNEY JUNIOR FHD
-http://209.222.97.23:8080/live/margaret/123456/19721.m3u8
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",DISNEY JUNIOR HD
-http://209.222.97.23:8080/live/margaret/123456/19722.m3u8
-#EXTINF:0 tvg-id="DisneyXD.uk" group-title="Channels",DISNEY XD *
-http://209.222.97.23:8080/live/margaret/123456/19727.m3u8
-#EXTINF:0 tvg-id="DisneyXD.uk" group-title="Channels",DISNEY XD HD
-http://209.222.97.23:8080/live/margaret/123456/19728.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DW DEUTSCHE WELLE-HD
-http://209.222.97.23:8080/live/margaret/123456/19731.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DW ESPANHOL-HD
-http://209.222.97.23:8080/live/margaret/123456/19732.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",E!-SD
-http://209.222.97.23:8080/live/margaret/123456/19734.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",E!-HD
-http://209.222.97.23:8080/live/margaret/123456/19735.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",E!-FHD
-http://209.222.97.23:8080/live/margaret/123456/19736.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN-SD
-http://209.222.97.23:8080/live/margaret/123456/19749.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN BRASIL-SD
-http://209.222.97.23:8080/live/margaret/123456/19750.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN BRASIL-FHD
-http://209.222.97.23:8080/live/margaret/123456/19753.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN BRASIL-HD
-http://209.222.97.23:8080/live/margaret/123456/19754.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN EXTRA-FHD
-http://209.222.97.23:8080/live/margaret/123456/19758.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN EXTRA-HD
-http://209.222.97.23:8080/live/margaret/123456/19760.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN EXTRA-SD
-http://209.222.97.23:8080/live/margaret/123456/19761.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN-FHD
-http://209.222.97.23:8080/live/margaret/123456/19763.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN-HD
-http://209.222.97.23:8080/live/margaret/123456/19764.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN-SD
-http://209.222.97.23:8080/live/margaret/123456/19765.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2-SD
-http://209.222.97.23:8080/live/margaret/123456/19767.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2-FHD
-http://209.222.97.23:8080/live/margaret/123456/19768.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPORTE INTERATIVO-SD
-http://209.222.97.23:8080/live/margaret/123456/19773.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPORTE INTERATIVO-HD
-http://209.222.97.23:8080/live/margaret/123456/19775.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILM & ARTS-HD
-http://209.222.97.23:8080/live/margaret/123456/19776.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FISH TV-SD
-http://209.222.97.23:8080/live/margaret/123456/19779.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FISH TV-HD
-http://209.222.97.23:8080/live/margaret/123456/19781.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOOD NETWORK-SD
-http://209.222.97.23:8080/live/margaret/123456/19783.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOOD NETWORK-HD
-http://209.222.97.23:8080/live/margaret/123456/19787.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX CHANNEL-HD
-http://209.222.97.23:8080/live/margaret/123456/19789.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX CHANNEL-SD
-http://209.222.97.23:8080/live/margaret/123456/19794.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX LIFE-SD
-http://209.222.97.23:8080/live/margaret/123456/19795.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX LIFE-FHD
-http://209.222.97.23:8080/live/margaret/123456/19797.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX LIFE-HD
-http://209.222.97.23:8080/live/margaret/123456/19799.m3u8
-#EXTINF:0 tvg-id="Foxpremium1.br" group-title="Channels",FOX PREMIUM 1 HD
-http://209.222.97.23:8080/live/margaret/123456/19803.m3u8
-#EXTINF:0 tvg-id="Foxpremium1.br" group-title="Channels",FOX PREMIUM 1 FHD
-http://209.222.97.23:8080/live/margaret/123456/19804.m3u8
-#EXTINF:0 tvg-id="Foxpremium2.br" group-title="Channels",FOX PREMIUM 2 SD
-http://209.222.97.23:8080/live/margaret/123456/19805.m3u8
-#EXTINF:0 tvg-id="Foxpremium2.br" group-title="Channels",FOX PREMIUM 2 FHD
-http://209.222.97.23:8080/live/margaret/123456/19808.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS-SD
-http://209.222.97.23:8080/live/margaret/123456/19810.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS 2-SD
-http://209.222.97.23:8080/live/margaret/123456/19812.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS 2-FHD
-http://209.222.97.23:8080/live/margaret/123456/19813.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS 2-HD
-http://209.222.97.23:8080/live/margaret/123456/19815.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS-FHD
-http://209.222.97.23:8080/live/margaret/123456/19818.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS-HD
-http://209.222.97.23:8080/live/margaret/123456/19820.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FX-SD
-http://209.222.97.23:8080/live/margaret/123456/19822.m3u8
-#EXTINF:0 tvg-id="FXHD.mx" group-title="Channels",FX-FHD
-http://209.222.97.23:8080/live/margaret/123456/19824.m3u8
-#EXTINF:0 tvg-id="FXHD.mx" group-title="Channels",FX-HD
-http://209.222.97.23:8080/live/margaret/123456/19826.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO NEWS-SD
-http://209.222.97.23:8080/live/margaret/123456/19855.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO NEWS-FHD
-http://209.222.97.23:8080/live/margaret/123456/19856.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO NEWS-HD
-http://209.222.97.23:8080/live/margaret/123456/19858.m3u8
-#EXTINF:0 tvg-id="Gloobhd.br" group-title="Channels",GLOOB HD
-http://209.222.97.23:8080/live/margaret/123456/19901.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOOB HD DUAL
-http://209.222.97.23:8080/live/margaret/123456/19903.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOOBINHO FHD
-http://209.222.97.23:8080/live/margaret/123456/19905.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GNT-SD
-http://209.222.97.23:8080/live/margaret/123456/19908.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GNT-FHD
-http://209.222.97.23:8080/live/margaret/123456/19909.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GNT-HD
-http://209.222.97.23:8080/live/margaret/123456/19910.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO-SD
-http://209.222.97.23:8080/live/margaret/123456/19912.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO +-SD
-http://209.222.97.23:8080/live/margaret/123456/19914.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO +-FHD
-http://209.222.97.23:8080/live/margaret/123456/19916.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 2-FHD
-http://209.222.97.23:8080/live/margaret/123456/19921.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 2-HD
-http://209.222.97.23:8080/live/margaret/123456/19923.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO FAMILY-SD
-http://209.222.97.23:8080/live/margaret/123456/19924.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO FAMILY-FHD
-http://209.222.97.23:8080/live/margaret/123456/19926.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO FAMILY-HD
-http://209.222.97.23:8080/live/margaret/123456/19928.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO-FHD
-http://209.222.97.23:8080/live/margaret/123456/19930.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO-FHD
-http://209.222.97.23:8080/live/margaret/123456/19931.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO-SD
-http://209.222.97.23:8080/live/margaret/123456/19932.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO-HD
-http://209.222.97.23:8080/live/margaret/123456/19933.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO MUNDI-HD
-http://209.222.97.23:8080/live/margaret/123456/19934.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO POP-HD
-http://209.222.97.23:8080/live/margaret/123456/19935.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO SIGNATURE-SD
-http://209.222.97.23:8080/live/margaret/123456/19937.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO SIGNATURE-FHD
-http://209.222.97.23:8080/live/margaret/123456/19938.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO SIGNATURE-HD
-http://209.222.97.23:8080/live/margaret/123456/19940.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO XTREME-FHD
-http://209.222.97.23:8080/live/margaret/123456/19942.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO+ FHD
-http://209.222.97.23:8080/live/margaret/123456/19943.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO2-FHD
-http://209.222.97.23:8080/live/margaret/123456/19944.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HGTV-HD
-http://209.222.97.23:8080/live/margaret/123456/19945.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY 2-SD
-http://209.222.97.23:8080/live/margaret/123456/19947.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY 2-FHD
-http://209.222.97.23:8080/live/margaret/123456/19949.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY 2-HD
-http://209.222.97.23:8080/live/margaret/123456/19950.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY CHANNEL-SD
-http://209.222.97.23:8080/live/margaret/123456/19952.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY CHANNEL-FHD
-http://209.222.97.23:8080/live/margaret/123456/19954.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY CHANNEL-HD
-http://209.222.97.23:8080/live/margaret/123456/19956.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",INVESTIGAÇÃO DISCOVERY-SD
-http://209.222.97.23:8080/live/margaret/123456/19959.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",INVESTIGAÇÃO DISCOVER- FHD
-http://209.222.97.23:8080/live/margaret/123456/19961.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",INVESTIGAÇÃO DISCOVERY-HD
-http://209.222.97.23:8080/live/margaret/123456/19962.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",LIFE TIME-SD
-http://209.222.97.23:8080/live/margaret/123456/19964.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",LIFE TIME-FHD
-http://209.222.97.23:8080/live/margaret/123456/19966.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",LOVE NATURE-HD
-http://209.222.97.23:8080/live/margaret/123456/19970.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBOSAT-SD
-http://209.222.97.23:8080/live/margaret/123456/19971.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBOSAT-HD
-http://209.222.97.23:8080/live/margaret/123456/19973.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO MUNDI-SD
-http://209.222.97.23:8080/live/margaret/123456/19976.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO MUNDI-FHD
-http://209.222.97.23:8080/live/margaret/123456/19978.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO MUNDI-HD
-http://209.222.97.23:8080/live/margaret/123456/19980.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO XTREME-FHD
-http://209.222.97.23:8080/live/margaret/123456/19981.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO XTREME-SD
-http://209.222.97.23:8080/live/margaret/123456/19982.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO XTREME-HD
-http://209.222.97.23:8080/live/margaret/123456/19985.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO POP-HD
-http://209.222.97.23:8080/live/margaret/123456/19988.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO POP-FHD
-http://209.222.97.23:8080/live/margaret/123456/19989.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO POP-HD
-http://209.222.97.23:8080/live/margaret/123456/19990.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MEGAPIX-FHD
-http://209.222.97.23:8080/live/margaret/123456/19993.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MEGAPIX-HD
-http://209.222.97.23:8080/live/margaret/123456/19995.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MEGAPIX-SD
-http://209.222.97.23:8080/live/margaret/123456/19996.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MTV-HD
-http://209.222.97.23:8080/live/margaret/123456/19998.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MTV-FHD
-http://209.222.97.23:8080/live/margaret/123456/19999.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MTV -SD
-http://209.222.97.23:8080/live/margaret/123456/20001.m3u8
-#EXTINF:0 tvg-id="MTV.uk" group-title="Channels",MTV
-http://209.222.97.23:8080/live/margaret/123456/20002.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MULTISHOW-SD
-http://209.222.97.23:8080/live/margaret/123456/20003.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MULTISHOW-FHD
-http://209.222.97.23:8080/live/margaret/123456/20006.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MULTISHOW-HD
-http://209.222.97.23:8080/live/margaret/123456/20007.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC BOX BRAZIL-SD
-http://209.222.97.23:8080/live/margaret/123456/20010.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC BOX BRAZIL-HD
-http://209.222.97.23:8080/live/margaret/123456/20011.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NATGEO-SD
-http://209.222.97.23:8080/live/margaret/123456/20012.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NATGEO-FHD
-http://209.222.97.23:8080/live/margaret/123456/20014.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NATGEO-HD
-http://209.222.97.23:8080/live/margaret/123456/20016.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NATGEO KIDS
-http://209.222.97.23:8080/live/margaret/123456/20018.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NATGEO KIDS FHD
-http://209.222.97.23:8080/live/margaret/123456/20020.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NATGEO KIDS HD
-http://209.222.97.23:8080/live/margaret/123456/20021.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NATGEO WILD-SD
-http://209.222.97.23:8080/live/margaret/123456/20025.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NATGEO WILD-HD
-http://209.222.97.23:8080/live/margaret/123456/20026.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NATGEO WILD-FHD
-http://209.222.97.23:8080/live/margaret/123456/20028.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NHK-SD
-http://209.222.97.23:8080/live/margaret/123456/20030.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NHK-HD
-http://209.222.97.23:8080/live/margaret/123456/20031.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NHK-FHD
-http://209.222.97.23:8080/live/margaret/123456/20032.m3u8
-#EXTINF:0 tvg-id="NickJunior.uk" group-title="Channels",NICK JR
-http://209.222.97.23:8080/live/margaret/123456/20033.m3u8
-#EXTINF:0 tvg-id="NickJunior.uk" group-title="Channels",NICK JR *
-http://209.222.97.23:8080/live/margaret/123456/20034.m3u8
-#EXTINF:0 tvg-id="NickJrHD.us" group-title="Channels",NICK JR FHD
-http://209.222.97.23:8080/live/margaret/123456/20035.m3u8
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Channels",NICKELODEON
-http://209.222.97.23:8080/live/margaret/123456/20037.m3u8
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Channels",NICKELODEON FHD
-http://209.222.97.23:8080/live/margaret/123456/20039.m3u8
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Channels",NICKELODEON HD
-http://209.222.97.23:8080/live/margaret/123456/20040.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",OFF-SD
-http://209.222.97.23:8080/live/margaret/123456/20041.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",OFF-HD
-http://209.222.97.23:8080/live/margaret/123456/20043.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",OFF-FHD
-http://209.222.97.23:8080/live/margaret/123456/20045.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV PAI ETERNO HD
-http://209.222.97.23:8080/live/margaret/123456/20046.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PARAMOUNT-SD
-http://209.222.97.23:8080/live/margaret/123456/20047.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PARAMOUNT-HD
-http://209.222.97.23:8080/live/margaret/123456/20049.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PARAMOUNT-FHD
-http://209.222.97.23:8080/live/margaret/123456/20051.m3u8
-#EXTINF:0 tvg-id="playboy" group-title="Channels",PLAYBOY
-http://209.222.97.23:8080/live/margaret/123456/20053.m3u8
-#EXTINF:0 tvg-id="PlayboyHD.cl" group-title="Channels",PLAYBOY HD
-http://209.222.97.23:8080/live/margaret/123456/20054.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLAYBOY-HD
-http://209.222.97.23:8080/live/margaret/123456/20055.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLAYKIDS *
-http://209.222.97.23:8080/live/margaret/123456/20056.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 2-SD
-http://209.222.97.23:8080/live/margaret/123456/20057.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 2-FHD
-http://209.222.97.23:8080/live/margaret/123456/20059.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 2-HD
-http://209.222.97.23:8080/live/margaret/123456/20061.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 3-SD
-http://209.222.97.23:8080/live/margaret/123456/20063.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 3-FHD
-http://209.222.97.23:8080/live/margaret/123456/20065.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 3-HD
-http://209.222.97.23:8080/live/margaret/123456/20067.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 4-SD
-http://209.222.97.23:8080/live/margaret/123456/20070.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 4-FHD
-http://209.222.97.23:8080/live/margaret/123456/20072.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 4-HD
-http://209.222.97.23:8080/live/margaret/123456/20074.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 5-SD
-http://209.222.97.23:8080/live/margaret/123456/20077.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 5-FHD
-http://209.222.97.23:8080/live/margaret/123456/20079.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 5-HD
-http://209.222.97.23:8080/live/margaret/123456/20081.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 6-FHD
-http://209.222.97.23:8080/live/margaret/123456/20085.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 6-HD
-http://209.222.97.23:8080/live/margaret/123456/20087.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 6-SD
-http://209.222.97.23:8080/live/margaret/123456/20088.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 7-SD
-http://209.222.97.23:8080/live/margaret/123456/20089.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 7-FHD
-http://209.222.97.23:8080/live/margaret/123456/20091.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 7-HD
-http://209.222.97.23:8080/live/margaret/123456/20092.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 8-HD
-http://209.222.97.23:8080/live/margaret/123456/20094.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PRIME BOX BRAZIL-SD
-http://209.222.97.23:8080/live/margaret/123456/20102.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PRIME BOX BRAZIL-HD
-http://209.222.97.23:8080/live/margaret/123456/20103.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PRIME BOX BRAZIL-FHD
-http://209.222.97.23:8080/live/margaret/123456/20104.m3u8
-#EXTINF:0 tvg-id="Rederecord.br" group-title="Channels",RECORD
-http://209.222.97.23:8080/live/margaret/123456/20106.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD BAHIA *
-http://209.222.97.23:8080/live/margaret/123456/20108.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD BAHIA HD
-http://209.222.97.23:8080/live/margaret/123456/20109.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD BELEM
-http://209.222.97.23:8080/live/margaret/123456/20110.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD BRASILIA *
-http://209.222.97.23:8080/live/margaret/123456/20111.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD BRASILIA HD
-http://209.222.97.23:8080/live/margaret/123456/20112.m3u8
-#EXTINF:0 tvg-id="Rederecord.br" group-title="Channels",RECORD FHD
-http://209.222.97.23:8080/live/margaret/123456/20113.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD GOIAS
-http://209.222.97.23:8080/live/margaret/123456/20114.m3u8
-#EXTINF:0 tvg-id="Rederecord.br" group-title="Channels",RECORD HD
-http://209.222.97.23:8080/live/margaret/123456/20115.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD MINAS *
-http://209.222.97.23:8080/live/margaret/123456/20117.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD MINAS HD
-http://209.222.97.23:8080/live/margaret/123456/20118.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD NEWS-SD
-http://209.222.97.23:8080/live/margaret/123456/20119.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD NEWS-HD
-http://209.222.97.23:8080/live/margaret/123456/20120.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD RIO *
-http://209.222.97.23:8080/live/margaret/123456/20121.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD RIO HD
-http://209.222.97.23:8080/live/margaret/123456/20122.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD RS HD
-http://209.222.97.23:8080/live/margaret/123456/20124.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",REDE CNT
-http://209.222.97.23:8080/live/margaret/123456/20125.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",REDE GENESIS HD²
-http://209.222.97.23:8080/live/margaret/123456/20126.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",REDE GOSPEL FHD
-http://209.222.97.23:8080/live/margaret/123456/20127.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",REDE MASSA HD
-http://209.222.97.23:8080/live/margaret/123456/20128.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV PAI ETERNO
-http://209.222.97.23:8080/live/margaret/123456/20129.m3u8
-#EXTINF:0 tvg-id="Redevida.br" group-title="Channels",REDE VIDA
-http://209.222.97.23:8080/live/margaret/123456/20130.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",REDE VIDA HD
-http://209.222.97.23:8080/live/margaret/123456/20131.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",REDETV FHD²
-http://209.222.97.23:8080/live/margaret/123456/20133.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",REDETV HD
-http://209.222.97.23:8080/live/margaret/123456/20134.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",REDETV HD DUAL
-http://209.222.97.23:8080/live/margaret/123456/20135.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RICTV MARINGÁ FHD
-http://209.222.97.23:8080/live/margaret/123456/20136.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RPC HD
-http://209.222.97.23:8080/live/margaret/123456/20137.m3u8
-#EXTINF:0 tvg-id="Sbt.br" group-title="Channels",SBT
-http://209.222.97.23:8080/live/margaret/123456/20138.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SBT FHD²
-http://209.222.97.23:8080/live/margaret/123456/20139.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SBT GOIANIA HD
-http://209.222.97.23:8080/live/margaret/123456/20140.m3u8
-#EXTINF:0 tvg-id="Sbt.br" group-title="Channels",SBT HD
-http://209.222.97.23:8080/live/margaret/123456/20141.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SBT HD DUAL
-http://209.222.97.23:8080/live/margaret/123456/20142.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SBT INTERIOR FHD²
-http://209.222.97.23:8080/live/margaret/123456/20143.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SBT PERNAMBUCO HD
-http://209.222.97.23:8080/live/margaret/123456/20144.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SBT²
-http://209.222.97.23:8080/live/margaret/123456/20145.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SEX TREME-SD
-http://209.222.97.23:8080/live/margaret/123456/20146.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SEX TREME-HD
-http://209.222.97.23:8080/live/margaret/123456/20147.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SEX TREME-FHD
-http://209.222.97.23:8080/live/margaret/123456/20148.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SEXY HOT-SD
-http://209.222.97.23:8080/live/margaret/123456/20149.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SEXY HOT-HD
-http://209.222.97.23:8080/live/margaret/123456/20150.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SEXY HOT-FHD
-http://209.222.97.23:8080/live/margaret/123456/20152.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SIC INTERNACIONAL-HD
-http://209.222.97.23:8080/live/margaret/123456/20153.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPACE-SD
-http://209.222.97.23:8080/live/margaret/123456/20155.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPACE-FHD
-http://209.222.97.23:8080/live/margaret/123456/20157.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPACE-HD
-http://209.222.97.23:8080/live/margaret/123456/20159.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTV-SD
-http://209.222.97.23:8080/live/margaret/123456/20161.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTV 2-SD
-http://209.222.97.23:8080/live/margaret/123456/20162.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTV 2-FHD
-http://209.222.97.23:8080/live/margaret/123456/20163.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTV 2-HD
-http://209.222.97.23:8080/live/margaret/123456/20164.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTV 3-FHD
-http://209.222.97.23:8080/live/margaret/123456/20169.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTV 3-HD
-http://209.222.97.23:8080/live/margaret/123456/20170.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTV 3-SD
-http://209.222.97.23:8080/live/margaret/123456/20173.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTV-FHD
-http://209.222.97.23:8080/live/margaret/123456/20176.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTV-HD
-http://209.222.97.23:8080/live/margaret/123456/20177.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTV-SD
-http://209.222.97.23:8080/live/margaret/123456/20179.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",STUDIO UNIVERSAL-SD
-http://209.222.97.23:8080/live/margaret/123456/20180.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",STUDIO UNIVERSAL-FHD
-http://209.222.97.23:8080/live/margaret/123456/20183.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",STUDIO  UNIVERSAL-HD
-http://209.222.97.23:8080/live/margaret/123456/20184.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SYFY-SD
-http://209.222.97.23:8080/live/margaret/123456/20186.m3u8
-#EXTINF:0 tvg-id="Syfy.fr" group-title="Channels",SYFY-FHD
-http://209.222.97.23:8080/live/margaret/123456/20188.m3u8
-#EXTINF:0 tvg-id="Syfy.fr" group-title="Channels",SYFY-HD
-http://209.222.97.23:8080/live/margaret/123456/20190.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TBS-SD
-http://209.222.97.23:8080/live/margaret/123456/20192.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TBS-HD
-http://209.222.97.23:8080/live/margaret/123456/20193.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TBS-FHD
-http://209.222.97.23:8080/live/margaret/123456/20194.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TCM-FHD
-http://209.222.97.23:8080/live/margaret/123456/20201.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TCM-SD
-http://209.222.97.23:8080/live/margaret/123456/20202.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TCM-HD
-http://209.222.97.23:8080/live/margaret/123456/20203.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE ACTION-SD
-http://209.222.97.23:8080/live/margaret/123456/20204.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE ACTION-FHD
-http://209.222.97.23:8080/live/margaret/123456/20206.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE ACTION-HD
-http://209.222.97.23:8080/live/margaret/123456/20208.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE CULT-SD
-http://209.222.97.23:8080/live/margaret/123456/20209.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE CULT-FHD
-http://209.222.97.23:8080/live/margaret/123456/20211.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE CULT-HD
-http://209.222.97.23:8080/live/margaret/123456/20213.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE FUN-SD
-http://209.222.97.23:8080/live/margaret/123456/20214.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE FUN-FHD
-http://209.222.97.23:8080/live/margaret/123456/20216.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE FUN-HD
-http://209.222.97.23:8080/live/margaret/123456/20218.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE PIPOCA-SD
-http://209.222.97.23:8080/live/margaret/123456/20219.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE PIPOCA-FHD
-http://209.222.97.23:8080/live/margaret/123456/20221.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE PIPOCA-HD
-http://209.222.97.23:8080/live/margaret/123456/20223.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE PREMIUM-SD
-http://209.222.97.23:8080/live/margaret/123456/20224.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE PREMIUM-FHD
-http://209.222.97.23:8080/live/margaret/123456/20225.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE PREMIUM-HD
-http://209.222.97.23:8080/live/margaret/123456/20227.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE TOUCH-SD
-http://209.222.97.23:8080/live/margaret/123456/20229.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE TOUCH-FHD
-http://209.222.97.23:8080/live/margaret/123456/20231.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE TOUCH-HD
-http://209.222.97.23:8080/live/margaret/123456/20233.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TLC-FHD
-http://209.222.97.23:8080/live/margaret/123456/20234.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TLC-HD
-http://209.222.97.23:8080/live/margaret/123456/20236.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TLC-SD
-http://209.222.97.23:8080/live/margaret/123456/20237.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT-SD
-http://209.222.97.23:8080/live/margaret/123456/20238.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT-FHD
-http://209.222.97.23:8080/live/margaret/123456/20240.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT-HD
-http://209.222.97.23:8080/live/margaret/123456/20241.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT SERIES-FHD
-http://209.222.97.23:8080/live/margaret/123456/20243.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT SÉRIES-HD
-http://209.222.97.23:8080/live/margaret/123456/20246.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT SÉRIES-HD
-http://209.222.97.23:8080/live/margaret/123456/20248.m3u8
-#EXTINF:0 tvg-id="Tooncast.mx" group-title="Channels",TOONCAST
-http://209.222.97.23:8080/live/margaret/123456/20249.m3u8
-#EXTINF:0 tvg-id="Tooncast.ar" group-title="Channels",TOONCAST HD
-http://209.222.97.23:8080/live/margaret/123456/20251.m3u8
-#EXTINF:0 tvg-id="Tvbrasil.br" group-title="Channels",TV BRASIL HD
-http://209.222.97.23:8080/live/margaret/123456/20255.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV EVANGELIZAR
-http://209.222.97.23:8080/live/margaret/123456/20257.m3u8
-#EXTINF:0 tvg-id="TVGazeta.br" group-title="Channels",TV GAZETA HD *
-http://209.222.97.23:8080/live/margaret/123456/20259.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV NOVO TEMPO HD
-http://209.222.97.23:8080/live/margaret/123456/20261.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV NOVO TEMPO HD²
-http://209.222.97.23:8080/live/margaret/123456/20262.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV PAI ETERNO FHD
-http://209.222.97.23:8080/live/margaret/123456/20263.m3u8
-#EXTINF:0 tvg-id="Tvratimbum.br" group-title="Channels",TV RA TIM BUM
-http://209.222.97.23:8080/live/margaret/123456/20264.m3u8
-#EXTINF:0 tvg-id="Tvratimbum.br" group-title="Channels",TV RA TIM BUM *
-http://209.222.97.23:8080/live/margaret/123456/20265.m3u8
-#EXTINF:0 tvg-id="Tvratimbum.br" group-title="Channels",TV RA TIM BUM HD
-http://209.222.97.23:8080/live/margaret/123456/20266.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV TAROBA HD
-http://209.222.97.23:8080/live/margaret/123456/20268.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVERSAL-SD
-http://209.222.97.23:8080/live/margaret/123456/20270.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVERSAL-FHD
-http://209.222.97.23:8080/live/margaret/123456/20272.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVERSAL-HD
-http://209.222.97.23:8080/live/margaret/123456/20274.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",VENUS-SD
-http://209.222.97.23:8080/live/margaret/123456/20277.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",VENUS-HD
-http://209.222.97.23:8080/live/margaret/123456/20278.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",VH1-SD
-http://209.222.97.23:8080/live/margaret/123456/20280.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",VH1 -HD
-http://209.222.97.23:8080/live/margaret/123456/20281.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",VH1 MEGAHITS-FHD
-http://209.222.97.23:8080/live/margaret/123456/20282.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIVA-SD
-http://209.222.97.23:8080/live/margaret/123456/20283.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIVA-HD
-http://209.222.97.23:8080/live/margaret/123456/20286.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIVA-FHD
-http://209.222.97.23:8080/live/margaret/123456/20287.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",WARNER CHANNEL-SD
-http://209.222.97.23:8080/live/margaret/123456/20289.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",WARNER CHANNEL-FHD
-http://209.222.97.23:8080/live/margaret/123456/20290.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",WARNER CHANNEL-HD
-http://209.222.97.23:8080/live/margaret/123456/20293.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",WOOHOO-SD
-http://209.222.97.23:8080/live/margaret/123456/20294.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",WOOHOO-HD
-http://209.222.97.23:8080/live/margaret/123456/20296.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",WOOHOO-FHD
-http://209.222.97.23:8080/live/margaret/123456/20297.m3u8
-#EXTINF:0 tvg-id="Zoomoo.br" group-title="Channels",ZOOMOO
-http://209.222.97.23:8080/live/margaret/123456/20298.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ZOOMOO HD
-http://209.222.97.23:8080/live/margaret/123456/20300.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ZOOMOO HD DUAL
-http://209.222.97.23:8080/live/margaret/123456/20301.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN-01
-http://209.222.97.23:8080/live/margaret/123456/20302.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV CABO BRANCO
-http://209.222.97.23:8080/live/margaret/123456/20303.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BRASILEIRINHAS
-http://209.222.97.23:8080/live/margaret/123456/20304.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",24HS EU A PATROA E AS CRIANÇAS
-http://209.222.97.23:8080/live/margaret/123456/20309.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV EVANGELIZAR SD
-http://209.222.97.23:8080/live/margaret/123456/20322.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV GOSPEL
-http://209.222.97.23:8080/live/margaret/123456/20324.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 01
-http://209.222.97.23:8080/live/margaret/123456/23864.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 02
-http://209.222.97.23:8080/live/margaret/123456/23865.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 03
-http://209.222.97.23:8080/live/margaret/123456/23866.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 04
-http://209.222.97.23:8080/live/margaret/123456/23867.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 05
-http://209.222.97.23:8080/live/margaret/123456/23868.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 06
-http://209.222.97.23:8080/live/margaret/123456/23869.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 07
-http://209.222.97.23:8080/live/margaret/123456/23870.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 08
-http://209.222.97.23:8080/live/margaret/123456/23871.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 09
-http://209.222.97.23:8080/live/margaret/123456/23872.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 10
-http://209.222.97.23:8080/live/margaret/123456/23873.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",24HS CHAVES EM DESENHO
-http://209.222.97.23:8080/live/margaret/123456/24832.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",24HS CHAVES
-http://209.222.97.23:8080/live/margaret/123456/24833.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",24HS CHAPOLIN COLORADO
-http://209.222.97.23:8080/live/margaret/123456/24834.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",24HS TODO MUNDO ODEIA O CRIS
-http://209.222.97.23:8080/live/margaret/123456/24850.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",24HS LIGA DA JUSTIÇA
-http://209.222.97.23:8080/live/margaret/123456/24851.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",24HS MICKEY MOUSE
-http://209.222.97.23:8080/live/margaret/123456/25264.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",24HS PICA PAU
-http://209.222.97.23:8080/live/margaret/123456/25265.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",24HS OS SIMPSONS
-http://209.222.97.23:8080/live/margaret/123456/25266.m3u8
-#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",PREMIERE CLUBES SD
-http://209.222.97.23:8080/live/margaret/123456/25272.m3u8
-#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",PREMIERE CLUBES *
-http://209.222.97.23:8080/live/margaret/123456/25273.m3u8
-#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",PREMIERE CLUBES FHD
-http://209.222.97.23:8080/live/margaret/123456/25274.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE CLUBES FHD²
-http://209.222.97.23:8080/live/margaret/123456/25275.m3u8
-#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",PREMIERE CLUBES HD
-http://209.222.97.23:8080/live/margaret/123456/25276.m3u8
-#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",PREMIERE CLUBES HD *
-http://209.222.97.23:8080/live/margaret/123456/25277.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE CLUBES HD DUAL
-http://209.222.97.23:8080/live/margaret/123456/25278.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",24HS BOOBA
-http://209.222.97.23:8080/live/margaret/123456/25304.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",24HS POCOYO
-http://209.222.97.23:8080/live/margaret/123456/25305.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",24HS PATATI PATATÁ
-http://209.222.97.23:8080/live/margaret/123456/25306.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",24HS PJ MASKS
-http://209.222.97.23:8080/live/margaret/123456/25307.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",24HS PORTA DOS FUNDOS
-http://209.222.97.23:8080/live/margaret/123456/25308.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",24HS TOM & JERRY
-http://209.222.97.23:8080/live/margaret/123456/25310.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",24HS CAVERNA DO DRAGÃO
-http://209.222.97.23:8080/live/margaret/123456/25312.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",24HS BOB ESPONJA
-http://209.222.97.23:8080/live/margaret/123456/25313.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",24HS LOONEY TUNES
-http://209.222.97.23:8080/live/margaret/123456/25314.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",24HS SCOOBY DOO
-http://209.222.97.23:8080/live/margaret/123456/25315.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO ACRE
-http://209.222.97.23:8080/live/margaret/123456/27118.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO ACRE HD
-http://209.222.97.23:8080/live/margaret/123456/27119.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO BAHIA HD
-http://209.222.97.23:8080/live/margaret/123456/27076.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO BELEM
-http://209.222.97.23:8080/live/margaret/123456/27077.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO BELEM HD
-http://209.222.97.23:8080/live/margaret/123456/27078.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO BOA VISTA
-http://209.222.97.23:8080/live/margaret/123456/27079.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO BOA VISTA HD
-http://209.222.97.23:8080/live/margaret/123456/27080.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO BRASILIA FHD H265
-http://209.222.97.23:8080/live/margaret/123456/27081.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO BRASILIA HD *
-http://209.222.97.23:8080/live/margaret/123456/27082.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO BRASILIA²
-http://209.222.97.23:8080/live/margaret/123456/27083.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO CEARÁ
-http://209.222.97.23:8080/live/margaret/123456/27085.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO CEARÁ HD
-http://209.222.97.23:8080/live/margaret/123456/27084.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO CURITIBA HD
-http://209.222.97.23:8080/live/margaret/123456/27086.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO EPTV CAMPINAS
-http://209.222.97.23:8080/live/margaret/123456/27087.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO EPTV CAMPINAS HD
-http://209.222.97.23:8080/live/margaret/123456/27088.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO EPTV CAMPINAS SD*
-http://209.222.97.23:8080/live/margaret/123456/27089.m3u8
-#EXTINF:0 tvg-id="GloboEPTVRibeiraoPreto.br" group-title="Channels",GLOBO EPTV RIBEIRÃO PRETO SD*
-http://209.222.97.23:8080/live/margaret/123456/27090.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO EPTV SAO CARLOS *
-http://209.222.97.23:8080/live/margaret/123456/27091.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO FLORIANOPOLIS
-http://209.222.97.23:8080/live/margaret/123456/27092.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO FLORIANOPOLIS HD
-http://209.222.97.23:8080/live/margaret/123456/27093.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO GOIANIA
-http://209.222.97.23:8080/live/margaret/123456/27094.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO GOIANIA HD
-http://209.222.97.23:8080/live/margaret/123456/27095.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO INTER TV CABUGI *
-http://209.222.97.23:8080/live/margaret/123456/27096.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO MACAPA
-http://209.222.97.23:8080/live/margaret/123456/27097.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO MACAPA HD
-http://209.222.97.23:8080/live/margaret/123456/27098.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO MINAS HD *
-http://209.222.97.23:8080/live/margaret/123456/27099.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO MINAS²
-http://209.222.97.23:8080/live/margaret/123456/27100.m3u8
-#EXTINF:0 tvg-id="Intertvcabuginatal.br" group-title="Channels",GLOBO NATAL
-http://209.222.97.23:8080/live/margaret/123456/27101.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO NATAL HD
-http://209.222.97.23:8080/live/margaret/123456/27102.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO NEWS FHD H265
-http://209.222.97.23:8080/live/margaret/123456/27103.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO NEWS HD²
-http://209.222.97.23:8080/live/margaret/123456/27104.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO NEWS HD³
-http://209.222.97.23:8080/live/margaret/123456/27105.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO NEWS²
-http://209.222.97.23:8080/live/margaret/123456/27106.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO NORDESTE HD *
-http://209.222.97.23:8080/live/margaret/123456/27107.m3u8
-#EXTINF:0 tvg-id="Globonordeste.br" group-title="Channels",GLOBO NORDESTE SD*
-http://209.222.97.23:8080/live/margaret/123456/27108.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO PORTO VELHO
-http://209.222.97.23:8080/live/margaret/123456/27109.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO PORTO VELHO HD
-http://209.222.97.23:8080/live/margaret/123456/27110.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO RBS PORTO ALEGRE *
-http://209.222.97.23:8080/live/margaret/123456/27111.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO RBS TV POÁ FHD
-http://209.222.97.23:8080/live/margaret/123456/27112.m3u8
-#EXTINF:0 tvg-id="Globorecife.br" group-title="Channels",GLOBO RECIFE
-http://209.222.97.23:8080/live/margaret/123456/27113.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO RECIFE HD
-http://209.222.97.23:8080/live/margaret/123456/27114.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO REDE AMAZONICA
-http://209.222.97.23:8080/live/margaret/123456/27115.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO REDE AMAZONICA HD
-http://209.222.97.23:8080/live/margaret/123456/27116.m3u8
-#EXTINF:0 tvg-id="Globorj.br" group-title="Channels",GLOBO RIO
-http://209.222.97.23:8080/live/margaret/123456/27117.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO RIO GRANDE DO SUL
-http://209.222.97.23:8080/live/margaret/123456/27120.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO RIO GRANDE DO SUL HD
-http://209.222.97.23:8080/live/margaret/123456/27121.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO RIO HD
-http://209.222.97.23:8080/live/margaret/123456/27122.m3u8
-#EXTINF:0 tvg-id="Globorj.br" group-title="Channels",GLOBO RJ FHD
-http://209.222.97.23:8080/live/margaret/123456/27123.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO RPC TV CURITIBA
-http://209.222.97.23:8080/live/margaret/123456/27124.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO SJRP *
-http://209.222.97.23:8080/live/margaret/123456/27125.m3u8
-#EXTINF:0 tvg-id="Globosp.br" group-title="Channels",GLOBO SP
-http://209.222.97.23:8080/live/margaret/123456/27126.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO SP DUAL
-http://209.222.97.23:8080/live/margaret/123456/27127.m3u8
-#EXTINF:0 tvg-id="Globosp.br" group-title="Channels",GLOBO SP FHD
-http://209.222.97.23:8080/live/margaret/123456/27128.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO SP FHD²
-http://209.222.97.23:8080/live/margaret/123456/27129.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO SP HD²
-http://209.222.97.23:8080/live/margaret/123456/27130.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO SP²
-http://209.222.97.23:8080/live/margaret/123456/27131.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO TV ANHANGUERA GOIANIA *
-http://209.222.97.23:8080/live/margaret/123456/27132.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO TV BAHIA *
-http://209.222.97.23:8080/live/margaret/123456/27133.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO TV CENTRO AMÉRICA CUIBÁ *
-http://209.222.97.23:8080/live/margaret/123456/27134.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO TV LIBERAL BELEM *
-http://209.222.97.23:8080/live/margaret/123456/27135.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO TV RIO SUL
-http://209.222.97.23:8080/live/margaret/123456/27136.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO TV TEM BAURU *
-http://209.222.97.23:8080/live/margaret/123456/27137.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO TV TEM SOROCABA *
-http://209.222.97.23:8080/live/margaret/123456/27138.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO TV TRIBUNA SANTOS SD *
-http://209.222.97.23:8080/live/margaret/123456/27139.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS *
-http://209.222.97.23:8080/live/margaret/123456/27140.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO TV VERDES MARES FORTALEZA *
-http://209.222.97.23:8080/live/margaret/123456/27141.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO VITORIA
-http://209.222.97.23:8080/live/margaret/123456/27142.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO VITORIA HD
-http://209.222.97.23:8080/live/margaret/123456/27143.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",A Fazenda 12 HD
-http://209.222.97.23:8080/live/margaret/123456/27191.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",A Fazenda 12 FHD
-http://209.222.97.23:8080/live/margaret/123456/27192.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Pipoca 1
-http://209.222.97.23:8080/live/margaret/123456/27195.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Pipoca 2
-http://209.222.97.23:8080/live/margaret/123456/27196.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Pipoca 3
-http://209.222.97.23:8080/live/margaret/123456/27197.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Pipoca 4
-http://209.222.97.23:8080/live/margaret/123456/27198.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Pipoca 5
-http://209.222.97.23:8080/live/margaret/123456/27199.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Pipoca 6
-http://209.222.97.23:8080/live/margaret/123456/27200.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cine PIpoca 7
-http://209.222.97.23:8080/live/margaret/123456/27201.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Pipoca 8
-http://209.222.97.23:8080/live/margaret/123456/27202.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Pipoca 9
-http://209.222.97.23:8080/live/margaret/123456/27203.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Pipoca 10
-http://209.222.97.23:8080/live/margaret/123456/27204.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Pipoca 11
-http://209.222.97.23:8080/live/margaret/123456/27205.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Pipoca 12
-http://209.222.97.23:8080/live/margaret/123456/27206.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Pipoca 13
-http://209.222.97.23:8080/live/margaret/123456/27207.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Pipoca 14
-http://209.222.97.23:8080/live/margaret/123456/27208.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cine PIpoca 15
-http://209.222.97.23:8080/live/margaret/123456/27209.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Pipoca 16
-http://209.222.97.23:8080/live/margaret/123456/27210.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Pipoca 17
-http://209.222.97.23:8080/live/margaret/123456/27211.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Pipoca 18
-http://209.222.97.23:8080/live/margaret/123456/27212.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Pipoca 19
-http://209.222.97.23:8080/live/margaret/123456/27213.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Pipoca 20
-http://209.222.97.23:8080/live/margaret/123456/27214.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CONMEBOL 1 HD
-http://209.222.97.23:8080/live/margaret/123456/27326.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CONMEBOL 2 HD
-http://209.222.97.23:8080/live/margaret/123456/27327.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CONMEBOL 3 HD
-http://209.222.97.23:8080/live/margaret/123456/27328.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CONMEBOL 4 HD
-http://209.222.97.23:8080/live/margaret/123456/27329.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CONMEBOL 1 SD
-http://209.222.97.23:8080/live/margaret/123456/27358.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CONMEBOL 2 SD
-http://209.222.97.23:8080/live/margaret/123456/27359.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CONMEBOL 3 SD
-http://209.222.97.23:8080/live/margaret/123456/27360.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CONMEBOL 4 SD
-http://209.222.97.23:8080/live/margaret/123456/27361.m3u8
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",### (UK-4K) DOCUMENTARY ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4818
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-4K) CRYSTAL PLANET NETFLIX
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/80403
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-4K) SMITHSONIAN CHANNEL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4808
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-4K) PARAMOUNT NETWORK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4809
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-4K) SYFY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4807
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-4K) LOVE NATURE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4810
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-4K) HISTORY 2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4811
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-4K) HISTORY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4812
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-4K) CRIME&INVESTIGATION
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4813
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-4K) ANIMAL PLANET
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4814
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-4K) NAT GEO WILD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4815
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-4K) NAT GEO
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4816
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-4K) DISCOVERY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4817
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) DISCOVERY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11640
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",### (UK-SD) DOCUMENTARY ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11641
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) DISCOVERY HISTORY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11639
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) DISCOVERY HOME & HEALTH
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11638
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) DISCOVERY SCIENCE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11637
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) DISCOVERY SHED
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11636
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) DISCOVERY TURBO
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11635
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) NAT GEO
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11634
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) NAT GEO WILD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11633
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) ANIMAL PLANET
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11632
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) TRAVEL CHANNEL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11631
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) CRIME&INVESTIGATION
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11630
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) SKY NATURE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/67022
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) FORCES TV
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11629
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) HISTORY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11628
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) HISTORY 2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11627
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) HORSE AND COUNTRY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11626
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) INVESTIGATION DISCOVERY (ID)
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11625
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) KEEP IT COUNTRY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11624
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) SYFY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11620
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) SHOWCASE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11621
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) PARAMOUNT NETWORK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11622
+#EXTINF:0 tvg-id="ext" group-title="UK| DOCUMENTARY",(UK-SD) MY TV
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11623
+
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",### (UK-4K) MUSIC ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4821
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-4K) MTV LIVE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4819
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-4K) MTV
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4820
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",#####(UK-SD) MUSIC   #####
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/67025
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) BOX HITS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11665
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-4K) SKY NATURE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/67021
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) CHART SHOW TV
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11664
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) CLUBLAND
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11663
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) KERRANG
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11662
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) KISS TV
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11661
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) MAGIC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11660
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) MTV BASE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11658
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) MTV CLASSIC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11657
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) MTV HITS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11655
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) MTV MUSIC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11654
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) MTV ONE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11653
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) MTV LIVE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11652
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) NOW 80s
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11650
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) NOW MUSIC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11649
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) THE VAULT
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11646
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) VH1
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11645
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) BEN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/31274
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) THE BOX
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11643
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) POP
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/63872
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) POP MAX
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/63871
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) MC MUSIC TODAYS COUNTRY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/63878
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) MC MUSIC TODDLER TUNES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/63877
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) MC MUSIC Y2K
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/63876
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) TRACE VAULT
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/63874
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) TRACE URBAN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/63873
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) 4 MUSIC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11642
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) MC MUSIC TAILGATE PARTY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/63881
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) MC MUSIC TEEN BEATS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/63880
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) SKY CINEMA PREMIERE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/67020
+#EXTINF:0 tvg-id="ext" group-title="UK| MUSIC",(UK-SD) MC MUSIC THROWBACK JAMZ
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/63879
+
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",### BEIN GROUP ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4930
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BEIN SPORT HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4929
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS NBA HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4928
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BEIN SPORT NEWS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4927
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 1 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4926
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 2 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4925
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 3 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4924
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 4 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4923
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 5 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4922
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 6 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4921
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 7 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4920
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 8 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4919
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 9 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4918
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 10 HD OLYMPIC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4917
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 11 HD EN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4916
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 12 HD EN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4915
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 13 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4914
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 14 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4913
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 15 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4912
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BEIN SPORTS 16 HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4911
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",### (UK-HD) SPORTS  ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4910
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) SKY SPORTS NEWS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4909
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) SKY SPORTS ACTION
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4908
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) SKY SPORTS FOOTBALL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4907
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) SKY SPORTS MAIN EVENT
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4906
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) SKY SPORTS PREMIER LEAGUE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4905
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) SKY SPORTS ARENA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4904
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) SKY SPORTS CRICKET
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4903
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) SKY SPORTS F1
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4902
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) SKY SPORTS GOLF
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4901
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BT SPORTS ESPN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4900
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BT SPORTS 1
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4899
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BT SPORTS 2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4898
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BT SPORTS 3
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4897
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) CHELSEA TV (LIVE ON MATCHES)
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4896
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) RANGERS FC TV
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/91705
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) BOX NATION
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4895
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) FOX SPORTS ASIA 1
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4894
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) FOX SPORTS ASIA 2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4893
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) FOX SPORTS ASIA 3
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4892
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",### (UK-4K) SPORTS ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4806
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) SKY SPORTS NEWS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4805
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) SKY SPORTS ACTION
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4804
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) SKY SPORTS FOOTBALL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4803
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) SKY SPORTS PREMIER LEAGUE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4802
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) SKY SPORTS MAIN EVENT
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4801
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) SKY SPORT MIX
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4800
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) SKY SPORTS RACING
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4799
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) SKY SPORTS ARENA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4798
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) SKY SPORTS CRICKET
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4797
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) SKY SPORTS F1
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4796
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) SKY SPORTS GOLF
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4795
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BT SPORTS ESPN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4794
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BT SPORTS 1
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4793
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BT SPORTS 2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4792
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BT SPORTS 3
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4791
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) EUROSPORTS 2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4789
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) FREE SPORTS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4788
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) LFC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4787
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) PREMIER SPORTS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4786
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) PREMIER SPORTS 2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4785
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) RACING UK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4784
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) MUTV
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4783
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) CELTIC TV HD (LIVE ON MATCHES)
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/67023
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) EUROSPORTS 1
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4790
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BT SPORTS EXTRA 6
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4776
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BT SPORTS EXTRA 5
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4777
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BT SPORTS EXTRA 4
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4778
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BT SPORTS EXTRA 3
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4779
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BT SPORTS EXTRA 2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4780
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BT SPORTS EXTRA 1
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4781
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",### (UK-4K) EVENTS ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4782
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) PPV 1 (ONLY MATCH TIME)
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/26219
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) PPV 2 (ONLY MATCH TIME)
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/26218
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) PPV 3 (ONLY MATCH TIME)
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/26217
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) PPV 4 (ONLY MATCH TIME)
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/26216
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) PPV 5 (CANELO VS SMITH)
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/86052
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) PPV 6 (ONLY MATCH TIME)
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/26214
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-HD) PPV 7 (ONLY MATCH TIME)
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/93213
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 48
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4728
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 47
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4729
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 46
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4730
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 45
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4731
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 44
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4732
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 43
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4733
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 42
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4734
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 41
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4735
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 40
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4736
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 39
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4737
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 38
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4738
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 37
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4739
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 36
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4740
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 35
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4741
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 34
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4742
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 33
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4743
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 32
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4744
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 31
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4745
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 30
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4746
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 29
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4747
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 28
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4748
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 27
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4749
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 26
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4750
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 25
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4751
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 24
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4752
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 23
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4753
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 22
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4754
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 21
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4755
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 20
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4756
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 19
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4757
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 18
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4758
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 17
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4759
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 16
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4760
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 15
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4761
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 14
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4762
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 12
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4763
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 13
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4764
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 11
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4765
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 10
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4766
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 9
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4767
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 8
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4768
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 7
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4769
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 6
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4770
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 5
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4771
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 4
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4772
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 3
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4773
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4774
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-4K) BBC RED BUTTON HD 1
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4775
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",### (UK-SD) SPORTS###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11619
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) SKY SPORTS NEWS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11618
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) SKY SPORTS ACTION
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11617
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) SKY SPORTS FOOTBALL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11616
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) SKY SPORTS MAIN EVENT
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11615
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) SKY SPORTS PREMIER LEAGUE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11614
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) SKY SPORTS RACING
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11613
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) SKY SPORTS ARENA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11612
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) SKY SPORTS CRICKET
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11611
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) SKY SPORTS F1
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11610
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) SKY SPORT MIX
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11609
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) SKY SPORTS GOLF
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11608
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) BT SPORTS ESPN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11607
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) BT SPORTS 1
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11606
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) BT SPORTS 2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11605
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) BT SPORTS 3
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11604
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) BT SPORTS MOSAIC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11603
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) EUROSPORT 1
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11601
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) CHELSEA TV
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11602
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) EUROSPORT 2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11600
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) BOX NATION
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11599
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) FREE SPORTS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11598
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) MUTV
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11596
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) PREMIER SPORTS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11595
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) PREMIER SPORTS 2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11594
+#EXTINF:0 tvg-id="ext" group-title="UK| SPORTS",(UK-SD) RACING UK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11593
+
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",### (UK-4K) MOVIES ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4836
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-4K) SKY CINEMA ACTION
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4835
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-4K) SKY CINEMA COMEDY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4834
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-4K) SKY CINEMA DISNEY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4833
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-4K) SKY CINEMA FAMILY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4832
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-4K) SKY CINEMA GREATS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4831
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-4K) SKY CINEMA PREMIER  1
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4830
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-4K) SKY CINEMA SCI-FI & HORROR
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4829
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-4K) SKY CINEMA SUPERHEROES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4828
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-4K) SKY CINEMA THRILLER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4827
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-4K) SKY CINEMA DRAMA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4826
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-4K) SKY CINEMA HITS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4825
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-4K) SKY CINEMA ANIMATION
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/67019
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-4K) SKY CINEMA PREMIERE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/67018
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-4K) TCM
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4824
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-4K) AMC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4823
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-4K) FILM 4
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4822
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",### (UK-SD) MOVIES ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11681
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-SD) SKY CINEMA ACTION
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11680
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-SD) SKY CINEMA COMEDY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11679
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-SD) SKY CINEMA DRAMA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11678
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-SD) SKY CINEMA DISNEY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11677
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-SD) SKY CINEMA FAMILY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11676
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-SD) SKY CINEMA GREATS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11675
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-SD) SKY CINEMA HITS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11674
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-SD) SKY CINEMA PREMIER  1
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11673
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-SD) SKY CINEMA SCI-FI & HORROR
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11672
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-SD) SKY CINEMA SUPERHEROES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11671
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-SD) SKY CINEMA THRILLER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11670
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-SD) TCM
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11669
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-SD) AMC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11668
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-SD) FILM 4
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11667
+#EXTINF:0 tvg-id="ext" group-title="UK| MOVIES",(UK-SD) HORROR CHANNEL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11666
+
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",### (UK-4K) ENTERTAINMENT ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4854
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-4K) TLC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4837
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-4K) SKY WITNESS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4838
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-4K) SKY ARTS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4839
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-4K) SKY ATLANTIC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4840
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-4K) WATCH
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4841
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-4K) UNIVERSAL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4842
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-4K) UTV
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4843
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-4K) STV
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4844
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-4K) SKY ONE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4845
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-4K) QUEST
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4846
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-4K) MORE 4
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4847
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-4K) E! ENTERTAINMENT
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4848
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-4K) LIFETIME
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4849
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-4K) GOLD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4850
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-4K) FOX
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4851
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-4K) EDEN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4852
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-4K) DAVE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4853
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",### (UK-SD) ENTERTAINMENT ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11731
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) BBC ENTERTAINMENT
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/73298
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) SKY ONE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11730
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) SKY TWO
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11729
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) 4 SEVEN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11728
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) 5 SELECT
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11727
+#EXTINF:0 tvg-id="5star.uk" group-title="UK| ENTERTAINMENT",(UK-SD) 5 STAR
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11726
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) 5 USA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11725
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) BET
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11724
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) BLAZE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11723
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) CBS ACTION
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11722
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) CBS DRAMA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11721
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) CBS REALITY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11720
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) CHALLENGE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11718
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) DAVE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11717
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) DMAX
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11716
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) DRAMA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11715
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) E! ENTERTAINMENT
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11714
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) E4
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11713
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) EDEN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11712
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) FOX
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11711
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) GOLD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11710
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) LIFETIME
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11709
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) MORE 4
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11708
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) PBS AMERICA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11706
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) PICK TV
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11705
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) QUEST
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11704
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) QUEST RED
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11703
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) REALLY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11701
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) SONY MOVIES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11700
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) SONY CRIME 2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11698
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) TRUE ENTERTAINMENT
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11697
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) TRUE MOVIES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11696
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) UNIVERSAL CHANNEL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11695
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) UTV ONE +1
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11694
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) UTV ULSTER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11693
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) WATCH
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11692
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) YANGA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11691
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) YESTERDAY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11690
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) SKY ATLANTIC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11689
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) SKY ARTS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11688
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) SKY WITNESS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11687
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) QVC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11686
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) QVC STYLE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11685
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) QVC EXTRA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11684
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) QVC BEAUTY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11683
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) TLC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11682
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) JML
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/63864
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) COMEDY CENTRAL EXTRA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/63870
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) COMEDY CENTRAL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/63869
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",### (UK) COOKING ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11801
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) FOOD NETWORK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11800
+#EXTINF:0 tvg-id="ext" group-title="UK| ENTERTAINMENT",(UK-SD) HOME
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11799
+
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",### (UK-4K) KIDS ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4862
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-4K) CRYSTAL RICK AND MORTY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/82799
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-4K) CRYSTAL GRAVITY FALLS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/82754
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-4K) CBEEBIES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4855
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-4K) NICK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4856
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-4K) COMEDY CENTRAL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4857
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-4K) DISNEY XD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4858
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-4K) DISNEY JUNIOR
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4859
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-4K) DISNEY CHANNEL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4860
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-4K) CARTOON NETWORK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4861
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",### (UK-SD) KIDS ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11747
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-SD) BABY TV
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11746
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-SD) BOOMERANG
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11745
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-SD) CARTOONITO (NOT 24)
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11744
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-SD) CARTOON NETWORK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11743
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-SD) DISNEY CHANNEL
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11740
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-SD) DISNEY JUNIOR
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11739
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-SD) DISNEY XD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11738
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-SD) NICK JR PEPPA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11737
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-SD) NICK JUNIOR
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11736
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-SD) NICKELODEON
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11735
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-SD) NICKTOONS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11734
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-SD) TINY POP
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11733
+#EXTINF:0 tvg-id="ext" group-title="UK| KIDS",(UK-SD) TINY POP+1
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11732
+
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",### (UK-4K) NEWS ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4873
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-4K) CARONA VIRUS INFO
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4890
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-4K) BBC NEWS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4872
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-4K) BBC WORLD NEWS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4871
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-4K) BLOOMBERG
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4870
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-4K) CNN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4869
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-4K) FRANCE 24
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4868
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-4K) RT AMERICA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4867
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-4K) RT DOCUMENTRY
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4866
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-4K) SKY NEWS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4863
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-4K) RT NEWS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4865
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-4K) RT UK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4864
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",### (UK-SD)NEWS ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11813
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-SD) BBC NEWS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11812
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-SD) BBC WORLD NEWS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11811
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-SD) BLOOMBERG
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11810
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-SD) CNBC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11809
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-SD) CNN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11808
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-SD) FOX NEWS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11806
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-SD) EURO NEWS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11807
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-SD) FRANCE 24 EN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11805
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-SD) AL JAZEERA EN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11804
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-SD) RT NEWS HD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11803
+#EXTINF:0 tvg-id="ext" group-title="UK| NEWS",(UK-SD) SKY NEWS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11802
+
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",### (UK-4K) GENERAL ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4891
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK) CARONA VIRUS INFO
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/66505
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-4K) BBC 1
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4889
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-4K) BBC 2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4888
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-4K) BBC 3/CBBC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4887
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-4K) BBC 4/CBEEBIES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4886
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-4K) BBC SCOTLAND
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4885
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-4K) ITV 1
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4884
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-4K) ITV 2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4883
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-4K) ITV 3
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4882
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-4K) ITV 4
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4881
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-4K) ITV BE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4880
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-4K) CHANNEL 4
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4879
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-4K) CHANNEL 5
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4878
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-4K) E4
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4877
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-4K) ALIBI
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4874
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-4K) 4 SEVEN
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4875
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-4K) CBBC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/4876
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",### (UK-SD) GENERAL ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11828
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC1
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11827
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11826
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC3/CBBC
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11825
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC4/CBEEBIES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11824
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC PARLIAMENT
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11823
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) CHANNEL 4
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11817
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) CHANNEL 5
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11816
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV 1
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11822
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV 2
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11821
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV 3
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11820
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV 4
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11819
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV BE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11818
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ALIBI
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11814
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) Arise News
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/31275
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) CITV
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11815
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",### (UK) LOCAL ###
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11798
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV WALES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11753
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV BORDER
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11754
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV YORKSHIRE WEST
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11755
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV YORKSHIRE TV EAST
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11756
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV WESTCOUNTRY WEST
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11757
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV WESTCOUNTRY SOUTH WEST
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11758
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV TYNE TEES TV NORTH
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11759
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV MERIDIAN TV SOUTH
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11760
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV MERIDIAN TV NORTH
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11761
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV MERIDIAN EAST
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11762
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV GRANADA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11763
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV CENTRAL WEST
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11764
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV CENTRAL EAST
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11765
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV ANGLIA WEST
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11766
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV ANGLIA EAST
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11767
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV TYNE TEES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11768
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) ITV LONDON
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11769
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) CHANNEL 4 SOUTH AND EAST
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11770
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) CHANNEL 4 SCOTLAND
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11771
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) CHANNEL 4 NORTHEN IRELAND
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11772
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) CHANNEL 4 NORTH
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11773
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) CHANNEL 4 MIDLANDS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11774
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC TWO WALES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11775
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC TWO NORTHEN IRELAND
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11776
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC TWO ENGLAND
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11777
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC ONE YORKSHIRE & LINCOLNSHIRE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11778
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC ONE YORK
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11779
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC ONE WEST MIDLANDS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11780
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC ONE WEST
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11781
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC ONE WALES
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11782
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC ONE SCOTLAND
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11795
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC ONE SOUTH WEST
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11783
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC One South East
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11784
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC ONE SOUTH
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11785
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC ONE OXFORD
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11786
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC ONE NORTHEN ISLAND
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11787
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC ONE NORTH WEST
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11788
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC ONE NORTH EAST & CUMBRIA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11789
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC ONE LONDON
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11790
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC ONE EAST MIDLANDS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11791
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC ONE EAST
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11792
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC ONE CHANNEL ISLANDS
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11793
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC ONE CAMBRIDGE
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11794
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC SCOTLAND
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11796
+#EXTINF:0 tvg-id="ext" group-title="UK| GENERAL",(UK-SD) BBC ALBA
+http://line.crystalott.co:80/4DALBZG9CB/MINEW2Y4KJ/11797
+#EXTINF:0 tvg-id="ext" group-title="XXX",AST TV 1
+http://www.ast.tv/stream/1/cellular.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",AST TV 2
+#EXTINF:0 tvg-id="ext" group-title="XXX",MILF HD
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 1
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 10
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 11
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 12
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 13
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 14
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 15
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 16
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 2
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 3
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 4
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 5
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 6
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 7
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX",RedTraffic 8
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:0 tvg-id="SuperOne.ero" group-title="XXX",Super One HD
+http://188.35.9.5:10007/stolen/246r/parasite.install
